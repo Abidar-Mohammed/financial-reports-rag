@@ -1,0 +1,3644 @@
+[
+  {
+    "doc_id": "brenner_fahrzeugtechnik_q1_2025.pdf",
+    "company": "Brenner Fahrzeugtechnik",
+    "period": "Q1 2025",
+    "model": "llamacpp/qwen2.5-3b-instruct-q4_k_m",
+    "fields": {
+      "revenue": {
+        "name": "revenue",
+        "value": 44.8,
+        "raw": "44.8",
+        "source_chunk": "brenner_fahrzeugtechnik_q1_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "revenue_growth_pct": {
+        "name": "revenue_growth_pct",
+        "value": 5.4,
+        "raw": "5.4%",
+        "source_chunk": "brenner_fahrzeugtechnik_q1_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "ebitda": {
+        "name": "ebitda",
+        "value": 5.4,
+        "raw": "5.4",
+        "source_chunk": "brenner_fahrzeugtechnik_q1_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "ebitda_margin_pct": {
+        "name": "ebitda_margin_pct",
+        "value": 12.1,
+        "raw": "12.1%",
+        "source_chunk": "brenner_fahrzeugtechnik_q1_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "net_debt": {
+        "name": "net_debt",
+        "value": 94.8,
+        "raw": "94.8m",
+        "source_chunk": "brenner_fahrzeugtechnik_q1_2025.pdf::1",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "cash": {
+        "name": "cash",
+        "value": 23.2,
+        "raw": "23.2m",
+        "source_chunk": "brenner_fahrzeugtechnik_q1_2025.pdf::1",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "leverage_ratio": {
+        "name": "leverage_ratio",
+        "value": 4.5,
+        "raw": "4.5x",
+        "source_chunk": "brenner_fahrzeugtechnik_q1_2025.pdf::1",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "capex": {
+        "name": "capex",
+        "value": 4.0,
+        "raw": "4.0m",
+        "source_chunk": "brenner_fahrzeugtechnik_q1_2025.pdf::6",
+        "page": 2,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "headcount": {
+        "name": "headcount",
+        "value": 890,
+        "raw": "890",
+        "source_chunk": "brenner_fahrzeugtechnik_q1_2025.pdf::6",
+        "page": 2,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "covenant_status": {
+        "name": "covenant_status",
+        "value": "compliant",
+        "raw": "compliant",
+        "source_chunk": "brenner_fahrzeugtechnik_q1_2025.pdf::1",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "guidance_low": {
+        "name": "guidance_low",
+        "value": 175.0,
+        "raw": "175m",
+        "source_chunk": "brenner_fahrzeugtechnik_q1_2025.pdf::8",
+        "page": 2,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "guidance_high": {
+        "name": "guidance_high",
+        "value": 180.0,
+        "raw": "180m",
+        "source_chunk": "brenner_fahrzeugtechnik_q1_2025.pdf::8",
+        "page": 2,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      }
+    },
+    "latency_s": 203.92319649999263
+  },
+  {
+    "doc_id": "brenner_fahrzeugtechnik_q2_2025.pdf",
+    "company": "Brenner Fahrzeugtechnik",
+    "period": "Q2 2025",
+    "model": "llamacpp/qwen2.5-3b-instruct-q4_k_m",
+    "fields": {
+      "revenue": {
+        "name": "revenue",
+        "value": 45.2,
+        "raw": "45.2m",
+        "source_chunk": "brenner_fahrzeugtechnik_q2_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "revenue_growth_pct": {
+        "name": "revenue_growth_pct",
+        "value": 8.7,
+        "raw": "8.7%",
+        "source_chunk": "brenner_fahrzeugtechnik_q2_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "ebitda": {
+        "name": "ebitda",
+        "value": 5.2,
+        "raw": "5.2m",
+        "source_chunk": "brenner_fahrzeugtechnik_q2_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "ebitda_margin_pct": {
+        "name": "ebitda_margin_pct",
+        "value": 11.5,
+        "raw": "11.5%",
+        "source_chunk": "brenner_fahrzeugtechnik_q2_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "net_debt": {
+        "name": "net_debt",
+        "value": 94.8,
+        "raw": "94.8m",
+        "source_chunk": "brenner_fahrzeugtechnik_q2_2025.pdf::1",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "cash": {
+        "name": "cash",
+        "value": 13.1,
+        "raw": "13.1m",
+        "source_chunk": "brenner_fahrzeugtechnik_q2_2025.pdf::1",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "leverage_ratio": {
+        "name": "leverage_ratio",
+        "value": 4.7,
+        "raw": "4.7x",
+        "source_chunk": "brenner_fahrzeugtechnik_q2_2025.pdf::1",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "capex": {
+        "name": "capex",
+        "value": 2.3,
+        "raw": "2.3",
+        "source_chunk": "brenner_fahrzeugtechnik_q2_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "headcount": {
+        "name": "headcount",
+        "value": 894,
+        "raw": "894",
+        "source_chunk": "brenner_fahrzeugtechnik_q2_2025.pdf::6",
+        "page": 2,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "covenant_status": {
+        "name": "covenant_status",
+        "value": "compliant",
+        "raw": "compliant",
+        "source_chunk": "brenner_fahrzeugtechnik_q2_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "guidance_low": {
+        "name": "guidance_low",
+        "value": 177.0,
+        "raw": "177m",
+        "source_chunk": "brenner_fahrzeugtechnik_q2_2025.pdf::8",
+        "page": 2,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "guidance_high": {
+        "name": "guidance_high",
+        "value": 182.0,
+        "raw": "182m",
+        "source_chunk": "brenner_fahrzeugtechnik_q2_2025.pdf::8",
+        "page": 2,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      }
+    },
+    "latency_s": 201.2837445999903
+  },
+  {
+    "doc_id": "brenner_fahrzeugtechnik_q3_2025.pdf",
+    "company": "Brenner Fahrzeugtechnik",
+    "period": "Q3 2025",
+    "model": "llamacpp/qwen2.5-3b-instruct-q4_k_m",
+    "fields": {
+      "revenue": {
+        "name": "revenue",
+        "value": 45.2,
+        "raw": "45.2",
+        "source_chunk": "brenner_fahrzeugtechnik_q3_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "revenue_growth_pct": {
+        "name": "revenue_growth_pct",
+        "value": 6.4,
+        "raw": "6.4%",
+        "source_chunk": "brenner_fahrzeugtechnik_q3_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "ebitda": {
+        "name": "ebitda",
+        "value": 5.3,
+        "raw": "5.3",
+        "source_chunk": "brenner_fahrzeugtechnik_q3_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "ebitda_margin_pct": {
+        "name": "ebitda_margin_pct",
+        "value": 11.7,
+        "raw": "11.7%",
+        "source_chunk": "brenner_fahrzeugtechnik_q3_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "net_debt": {
+        "name": "net_debt",
+        "value": 92.7,
+        "raw": "92.7m",
+        "source_chunk": "brenner_fahrzeugtechnik_q3_2025.pdf::1",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "cash": {
+        "name": "cash",
+        "value": 18.1,
+        "raw": "18.1m",
+        "source_chunk": "brenner_fahrzeugtechnik_q3_2025.pdf::1",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "leverage_ratio": {
+        "name": "leverage_ratio",
+        "value": 4.5,
+        "raw": "4.5x",
+        "source_chunk": "brenner_fahrzeugtechnik_q3_2025.pdf::1",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "capex": {
+        "name": "capex",
+        "value": 2.1,
+        "raw": "2.1",
+        "source_chunk": "brenner_fahrzeugtechnik_q3_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "headcount": {
+        "name": "headcount",
+        "value": 875,
+        "raw": "875",
+        "source_chunk": "brenner_fahrzeugtechnik_q3_2025.pdf::6",
+        "page": 2,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "covenant_status": {
+        "name": "covenant_status",
+        "value": "compliant",
+        "raw": "compliant",
+        "source_chunk": "brenner_fahrzeugtechnik_q3_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "guidance_low": {
+        "name": "guidance_low",
+        "value": 175.0,
+        "raw": "175m",
+        "source_chunk": "brenner_fahrzeugtechnik_q3_2025.pdf::8",
+        "page": 2,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "guidance_high": {
+        "name": "guidance_high",
+        "value": 190.0,
+        "raw": "190m",
+        "source_chunk": "brenner_fahrzeugtechnik_q3_2025.pdf::8",
+        "page": 2,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      }
+    },
+    "latency_s": 165.22065609999117
+  },
+  {
+    "doc_id": "brenner_fahrzeugtechnik_q4_2025.pdf",
+    "company": "Brenner Fahrzeugtechnik",
+    "period": "Q4 2025",
+    "model": "llamacpp/qwen2.5-3b-instruct-q4_k_m",
+    "fields": {
+      "revenue": {
+        "name": "revenue",
+        "value": 48.6,
+        "raw": "48.6 m",
+        "source_chunk": "brenner_fahrzeugtechnik_q4_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "revenue_growth_pct": {
+        "name": "revenue_growth_pct",
+        "value": 5.2,
+        "raw": "5.2%",
+        "source_chunk": "brenner_fahrzeugtechnik_q4_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "ebitda": {
+        "name": "ebitda",
+        "value": 5.8,
+        "raw": "5.8 m",
+        "source_chunk": "brenner_fahrzeugtechnik_q4_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "ebitda_margin_pct": {
+        "name": "ebitda_margin_pct",
+        "value": 11.9,
+        "raw": "11.9%",
+        "source_chunk": "brenner_fahrzeugtechnik_q4_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "net_debt": {
+        "name": "net_debt",
+        "value": 91.0,
+        "raw": "91.0",
+        "source_chunk": "brenner_fahrzeugtechnik_q4_2025.pdf::1",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "cash": {
+        "name": "cash",
+        "value": 13.0,
+        "raw": "13.0",
+        "source_chunk": "brenner_fahrzeugtechnik_q4_2025.pdf::1",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "leverage_ratio": {
+        "name": "leverage_ratio",
+        "value": 4.0,
+        "raw": "4.0x",
+        "source_chunk": "brenner_fahrzeugtechnik_q4_2025.pdf::1",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "capex": {
+        "name": "capex",
+        "value": 4.2,
+        "raw": "4.2 m",
+        "source_chunk": "brenner_fahrzeugtechnik_q4_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "headcount": {
+        "name": "headcount",
+        "value": 889,
+        "raw": "889",
+        "source_chunk": "brenner_fahrzeugtechnik_q4_2025.pdf::6",
+        "page": 2,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "covenant_status": {
+        "name": "covenant_status",
+        "value": "compliant",
+        "raw": "compliant",
+        "source_chunk": "brenner_fahrzeugtechnik_q4_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "guidance_low": {
+        "name": "guidance_low",
+        "value": 191.0,
+        "raw": "191m",
+        "source_chunk": "brenner_fahrzeugtechnik_q4_2025.pdf::8",
+        "page": 2,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "guidance_high": {
+        "name": "guidance_high",
+        "value": 201.0,
+        "raw": "201m",
+        "source_chunk": "brenner_fahrzeugtechnik_q4_2025.pdf::8",
+        "page": 2,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      }
+    },
+    "latency_s": 150.05842000001576
+  },
+  {
+    "doc_id": "clarion_diagnostics_q1_2025.pdf",
+    "company": "Clarion Diagnostics",
+    "period": "Q1 2025",
+    "model": "llamacpp/qwen2.5-3b-instruct-q4_k_m",
+    "fields": {
+      "revenue": {
+        "name": "revenue",
+        "value": 38.443,
+        "raw": "38,443",
+        "source_chunk": "clarion_diagnostics_q1_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "revenue_growth_pct": {
+        "name": "revenue_growth_pct",
+        "value": 11.7,
+        "raw": "11.7",
+        "source_chunk": "clarion_diagnostics_q1_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "ebitda": {
+        "name": "ebitda",
+        "value": 8.326,
+        "raw": "8,326",
+        "source_chunk": "clarion_diagnostics_q1_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "ebitda_margin_pct": {
+        "name": "ebitda_margin_pct",
+        "value": 21.7,
+        "raw": "21.7",
+        "source_chunk": "clarion_diagnostics_q1_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "net_debt": {
+        "name": "net_debt",
+        "value": 154.054,
+        "raw": "154,054",
+        "source_chunk": "clarion_diagnostics_q1_2025.pdf::1",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "cash": {
+        "name": "cash",
+        "value": 22.93,
+        "raw": "22,930",
+        "source_chunk": "clarion_diagnostics_q1_2025.pdf::1",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "leverage_ratio": {
+        "name": "leverage_ratio",
+        "value": 4.7,
+        "raw": "4.7x",
+        "source_chunk": "clarion_diagnostics_q1_2025.pdf::1",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "capex": {
+        "name": "capex",
+        "value": 3.073,
+        "raw": "3073",
+        "source_chunk": "clarion_diagnostics_q1_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "headcount": {
+        "name": "headcount",
+        "value": 955,
+        "raw": "955",
+        "source_chunk": "clarion_diagnostics_q1_2025.pdf::6",
+        "page": 2,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "covenant_status": {
+        "name": "covenant_status",
+        "value": "compliant",
+        "raw": "compliant",
+        "source_chunk": "clarion_diagnostics_q1_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "guidance_low": {
+        "name": "guidance_low",
+        "value": 155.0,
+        "raw": "155m",
+        "source_chunk": "clarion_diagnostics_q1_2025.pdf::8",
+        "page": 2,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "guidance_high": {
+        "name": "guidance_high",
+        "value": 165.0,
+        "raw": "165m",
+        "source_chunk": "clarion_diagnostics_q1_2025.pdf::8",
+        "page": 2,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      }
+    },
+    "latency_s": 177.95290720000048
+  },
+  {
+    "doc_id": "clarion_diagnostics_q2_2025.pdf",
+    "company": "Clarion Diagnostics",
+    "period": "Q2 2025",
+    "model": "llamacpp/qwen2.5-3b-instruct-q4_k_m",
+    "fields": {
+      "revenue": {
+        "name": "revenue",
+        "value": 41.524,
+        "raw": "41,524",
+        "source_chunk": "clarion_diagnostics_q2_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "revenue_growth_pct": {
+        "name": "revenue_growth_pct",
+        "value": 7.8,
+        "raw": "7.8",
+        "source_chunk": "clarion_diagnostics_q2_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "ebitda": {
+        "name": "ebitda",
+        "value": 8.769,
+        "raw": "8,769",
+        "source_chunk": "clarion_diagnostics_q2_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "ebitda_margin_pct": {
+        "name": "ebitda_margin_pct",
+        "value": 21.1,
+        "raw": "21.1",
+        "source_chunk": "clarion_diagnostics_q2_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "net_debt": {
+        "name": "net_debt",
+        "value": 149.808,
+        "raw": "149,808",
+        "source_chunk": "clarion_diagnostics_q2_2025.pdf::1",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "cash": {
+        "name": "cash",
+        "value": 16.518,
+        "raw": "16,518",
+        "source_chunk": "clarion_diagnostics_q2_2025.pdf::1",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "leverage_ratio": {
+        "name": "leverage_ratio",
+        "value": 4.4,
+        "raw": "4.4x",
+        "source_chunk": "clarion_diagnostics_q2_2025.pdf::1",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "capex": {
+        "name": "capex",
+        "value": 3.516,
+        "raw": "3516k",
+        "source_chunk": "clarion_diagnostics_q2_2025.pdf::6",
+        "page": 2,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "headcount": {
+        "name": "headcount",
+        "value": 970,
+        "raw": "970",
+        "source_chunk": "clarion_diagnostics_q2_2025.pdf::6",
+        "page": 2,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "covenant_status": {
+        "name": "covenant_status",
+        "value": "compliant",
+        "raw": "compliant",
+        "source_chunk": "clarion_diagnostics_q2_2025.pdf::1",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "guidance_low": {
+        "name": "guidance_low",
+        "value": 161.0,
+        "raw": "161m",
+        "source_chunk": "clarion_diagnostics_q2_2025.pdf::8",
+        "page": 2,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "guidance_high": {
+        "name": "guidance_high",
+        "value": 176.0,
+        "raw": "176m",
+        "source_chunk": "clarion_diagnostics_q2_2025.pdf::8",
+        "page": 2,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      }
+    },
+    "latency_s": 167.88363689999096
+  },
+  {
+    "doc_id": "clarion_diagnostics_q3_2025.pdf",
+    "company": "Clarion Diagnostics",
+    "period": "Q3 2025",
+    "model": "llamacpp/qwen2.5-3b-instruct-q4_k_m",
+    "fields": {
+      "revenue": {
+        "name": "revenue",
+        "value": 39.56,
+        "raw": "39,560",
+        "source_chunk": "clarion_diagnostics_q3_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "revenue_growth_pct": {
+        "name": "revenue_growth_pct",
+        "value": 8.4,
+        "raw": "8.4",
+        "source_chunk": "clarion_diagnostics_q3_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "ebitda": {
+        "name": "ebitda",
+        "value": 8.452,
+        "raw": "8,452",
+        "source_chunk": "clarion_diagnostics_q3_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "ebitda_margin_pct": {
+        "name": "ebitda_margin_pct",
+        "value": 21.4,
+        "raw": "21.4",
+        "source_chunk": "clarion_diagnostics_q3_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "net_debt": {
+        "name": "net_debt",
+        "value": 153.213,
+        "raw": "153,213",
+        "source_chunk": "clarion_diagnostics_q3_2025.pdf::1",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "cash": {
+        "name": "cash",
+        "value": 22.565,
+        "raw": "22,565",
+        "source_chunk": "clarion_diagnostics_q3_2025.pdf::1",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "leverage_ratio": {
+        "name": "leverage_ratio",
+        "value": 4.6,
+        "raw": "4.6x",
+        "source_chunk": "clarion_diagnostics_q3_2025.pdf::1",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "capex": {
+        "name": "capex",
+        "value": 2.662,
+        "raw": "2662",
+        "source_chunk": "clarion_diagnostics_q3_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "headcount": {
+        "name": "headcount",
+        "value": 966,
+        "raw": "966",
+        "source_chunk": "clarion_diagnostics_q3_2025.pdf::6",
+        "page": 2,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "covenant_status": {
+        "name": "covenant_status",
+        "value": "compliant",
+        "raw": "compliant",
+        "source_chunk": "clarion_diagnostics_q3_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "guidance_low": {
+        "name": "guidance_low",
+        "value": 159.0,
+        "raw": "159m",
+        "source_chunk": "clarion_diagnostics_q3_2025.pdf::8",
+        "page": 2,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "guidance_high": {
+        "name": "guidance_high",
+        "value": 164.0,
+        "raw": "164m",
+        "source_chunk": "clarion_diagnostics_q3_2025.pdf::8",
+        "page": 2,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      }
+    },
+    "latency_s": 165.24007230001735
+  },
+  {
+    "doc_id": "clarion_diagnostics_q4_2025.pdf",
+    "company": "Clarion Diagnostics",
+    "period": "Q4 2025",
+    "model": "llamacpp/qwen2.5-3b-instruct-q4_k_m",
+    "fields": {
+      "revenue": {
+        "name": "revenue",
+        "value": 43.103,
+        "raw": "43,103",
+        "source_chunk": "clarion_diagnostics_q4_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "revenue_growth_pct": {
+        "name": "revenue_growth_pct",
+        "value": 10.1,
+        "raw": "10.1",
+        "source_chunk": "clarion_diagnostics_q4_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "ebitda": {
+        "name": "ebitda",
+        "value": 9.666,
+        "raw": "9,666",
+        "source_chunk": "clarion_diagnostics_q4_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "ebitda_margin_pct": {
+        "name": "ebitda_margin_pct",
+        "value": 22.4,
+        "raw": "22.4",
+        "source_chunk": "clarion_diagnostics_q4_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "net_debt": {
+        "name": "net_debt",
+        "value": 142.258,
+        "raw": "142,258",
+        "source_chunk": "clarion_diagnostics_q4_2025.pdf::1",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "cash": {
+        "name": "cash",
+        "value": 17.296,
+        "raw": "17,296",
+        "source_chunk": "clarion_diagnostics_q4_2025.pdf::1",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "leverage_ratio": {
+        "name": "leverage_ratio",
+        "value": 3.6,
+        "raw": "3.6x",
+        "source_chunk": "clarion_diagnostics_q4_2025.pdf::1",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "capex": {
+        "name": "capex",
+        "value": 2.573,
+        "raw": "2573",
+        "source_chunk": "clarion_diagnostics_q4_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "headcount": {
+        "name": "headcount",
+        "value": 998,
+        "raw": "998",
+        "source_chunk": "clarion_diagnostics_q4_2025.pdf::6",
+        "page": 2,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "covenant_status": {
+        "name": "covenant_status",
+        "value": "compliant",
+        "raw": "compliant",
+        "source_chunk": "clarion_diagnostics_q4_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "guidance_low": {
+        "name": "guidance_low",
+        "value": 171.0,
+        "raw": "171m",
+        "source_chunk": "clarion_diagnostics_q4_2025.pdf::8",
+        "page": 2,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "guidance_high": {
+        "name": "guidance_high",
+        "value": 176.0,
+        "raw": "176m",
+        "source_chunk": "clarion_diagnostics_q4_2025.pdf::8",
+        "page": 2,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      }
+    },
+    "latency_s": 154.5007088999846
+  },
+  {
+    "doc_id": "corvane_software_q1_2025.pdf",
+    "company": "Corvane Software",
+    "period": "Q1 2025",
+    "model": "llamacpp/qwen2.5-3b-instruct-q4_k_m",
+    "fields": {
+      "revenue": {
+        "name": "revenue",
+        "value": 12.36,
+        "raw": "12360",
+        "source_chunk": "corvane_software_q1_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "revenue_growth_pct": {
+        "name": "revenue_growth_pct",
+        "value": 23.0,
+        "raw": "23.0",
+        "source_chunk": "corvane_software_q1_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "ebitda": {
+        "name": "ebitda",
+        "value": 3.813,
+        "raw": "3813",
+        "source_chunk": "corvane_software_q1_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "ebitda_margin_pct": {
+        "name": "ebitda_margin_pct",
+        "value": 30.8,
+        "raw": "30.8",
+        "source_chunk": "corvane_software_q1_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "net_debt": {
+        "name": "net_debt",
+        "value": 33.234,
+        "raw": "33,234",
+        "source_chunk": "corvane_software_q1_2025.pdf::1",
+        "page": 1,
+        "grounded": false,
+        "issues": [],
+        "needs_review": true
+      },
+      "cash": {
+        "name": "cash",
+        "value": 4.569,
+        "raw": "4,569",
+        "source_chunk": "corvane_software_q1_2025.pdf::1",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "leverage_ratio": {
+        "name": "leverage_ratio",
+        "value": 2.6,
+        "raw": "2.6x",
+        "source_chunk": "corvane_software_q1_2025.pdf::1",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "capex": {
+        "name": "capex",
+        "value": 0.438,
+        "raw": "438",
+        "source_chunk": "corvane_software_q1_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "headcount": {
+        "name": "headcount",
+        "value": 185,
+        "raw": "185",
+        "source_chunk": "corvane_software_q1_2025.pdf::6",
+        "page": 2,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "covenant_status": {
+        "name": "covenant_status",
+        "value": "compliant",
+        "raw": "compliant",
+        "source_chunk": "corvane_software_q1_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "guidance_low": {
+        "name": "guidance_low",
+        "value": 48.0,
+        "raw": "48m",
+        "source_chunk": "corvane_software_q1_2025.pdf::8",
+        "page": 2,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "guidance_high": {
+        "name": "guidance_high",
+        "value": 53.0,
+        "raw": "53m",
+        "source_chunk": "corvane_software_q1_2025.pdf::8",
+        "page": 2,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      }
+    },
+    "latency_s": 177.1832057000138
+  },
+  {
+    "doc_id": "corvane_software_q2_2025.pdf",
+    "company": "Corvane Software",
+    "period": "Q2 2025",
+    "model": "llamacpp/qwen2.5-3b-instruct-q4_k_m",
+    "fields": {
+      "revenue": {
+        "name": "revenue",
+        "value": 13.078,
+        "raw": "13078",
+        "source_chunk": "corvane_software_q2_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "revenue_growth_pct": {
+        "name": "revenue_growth_pct",
+        "value": 22.5,
+        "raw": "22.5",
+        "source_chunk": "corvane_software_q2_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "ebitda": {
+        "name": "ebitda",
+        "value": 3.894,
+        "raw": "3894",
+        "source_chunk": "corvane_software_q2_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "ebitda_margin_pct": {
+        "name": "ebitda_margin_pct",
+        "value": 29.8,
+        "raw": "29.8",
+        "source_chunk": "corvane_software_q2_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "net_debt": {
+        "name": "net_debt",
+        "value": 32.469,
+        "raw": "32,469",
+        "source_chunk": "corvane_software_q2_2025.pdf::1",
+        "page": 1,
+        "grounded": false,
+        "issues": [],
+        "needs_review": true
+      },
+      "cash": {
+        "name": "cash",
+        "value": 5.246,
+        "raw": "5,246",
+        "source_chunk": "corvane_software_q2_2025.pdf::1",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "leverage_ratio": {
+        "name": "leverage_ratio",
+        "value": 2.4,
+        "raw": "2.4x",
+        "source_chunk": "corvane_software_q2_2025.pdf::1",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "capex": {
+        "name": "capex",
+        "value": 0.637,
+        "raw": "637",
+        "source_chunk": "corvane_software_q2_2025.pdf::6",
+        "page": 2,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "headcount": {
+        "name": "headcount",
+        "value": 172,
+        "raw": "172",
+        "source_chunk": "corvane_software_q2_2025.pdf::6",
+        "page": 2,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "covenant_status": {
+        "name": "covenant_status",
+        "value": "compliant",
+        "raw": "compliant",
+        "source_chunk": "corvane_software_q2_2025.pdf::1",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "guidance_low": {
+        "name": "guidance_low",
+        "value": 50.0,
+        "raw": "50m",
+        "source_chunk": "corvane_software_q2_2025.pdf::8",
+        "page": 2,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "guidance_high": {
+        "name": "guidance_high",
+        "value": 55.0,
+        "raw": "55m",
+        "source_chunk": "corvane_software_q2_2025.pdf::8",
+        "page": 2,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      }
+    },
+    "latency_s": 164.92437890000292
+  },
+  {
+    "doc_id": "corvane_software_q3_2025.pdf",
+    "company": "Corvane Software",
+    "period": "Q3 2025",
+    "model": "llamacpp/qwen2.5-3b-instruct-q4_k_m",
+    "fields": {
+      "revenue": {
+        "name": "revenue",
+        "value": 12.45,
+        "raw": "12450",
+        "source_chunk": "corvane_software_q3_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "revenue_growth_pct": {
+        "name": "revenue_growth_pct",
+        "value": 21.1,
+        "raw": "21.1",
+        "source_chunk": "corvane_software_q3_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "ebitda": {
+        "name": "ebitda",
+        "value": 4.024,
+        "raw": "4024",
+        "source_chunk": "corvane_software_q3_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "ebitda_margin_pct": {
+        "name": "ebitda_margin_pct",
+        "value": 32.3,
+        "raw": "32.3",
+        "source_chunk": "corvane_software_q3_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "net_debt": {
+        "name": "net_debt",
+        "value": 36.803,
+        "raw": "36803",
+        "source_chunk": "corvane_software_q3_2025.pdf::1",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "cash": {
+        "name": "cash",
+        "value": 5.105,
+        "raw": "5105",
+        "source_chunk": "corvane_software_q3_2025.pdf::1",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "leverage_ratio": {
+        "name": "leverage_ratio",
+        "value": 2.3,
+        "raw": "2.3x",
+        "source_chunk": "corvane_software_q3_2025.pdf::1",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "capex": {
+        "name": "capex",
+        "value": 0.785,
+        "raw": "785k",
+        "source_chunk": "corvane_software_q3_2025.pdf::6",
+        "page": 2,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "headcount": {
+        "name": "headcount",
+        "value": 175,
+        "raw": "175",
+        "source_chunk": "corvane_software_q3_2025.pdf::6",
+        "page": 2,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "covenant_status": {
+        "name": "covenant_status",
+        "value": "compliant",
+        "raw": "compliant",
+        "source_chunk": "corvane_software_q3_2025.pdf::1",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "guidance_low": {
+        "name": "guidance_low",
+        "value": 50.0,
+        "raw": "50m",
+        "source_chunk": "corvane_software_q3_2025.pdf::8",
+        "page": 2,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "guidance_high": {
+        "name": "guidance_high",
+        "value": 52.0,
+        "raw": "52m",
+        "source_chunk": "corvane_software_q3_2025.pdf::8",
+        "page": 2,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      }
+    },
+    "latency_s": 161.57099110001582
+  },
+  {
+    "doc_id": "corvane_software_q4_2025.pdf",
+    "company": "Corvane Software",
+    "period": "Q4 2025",
+    "model": "llamacpp/qwen2.5-3b-instruct-q4_k_m",
+    "fields": {
+      "revenue": {
+        "name": "revenue",
+        "value": 13.519,
+        "raw": "13,519",
+        "source_chunk": "corvane_software_q4_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "revenue_growth_pct": {
+        "name": "revenue_growth_pct",
+        "value": 19.8,
+        "raw": "19.8",
+        "source_chunk": "corvane_software_q4_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "ebitda": {
+        "name": "ebitda",
+        "value": 3.989,
+        "raw": "3,989",
+        "source_chunk": "corvane_software_q4_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "ebitda_margin_pct": {
+        "name": "ebitda_margin_pct",
+        "value": 29.5,
+        "raw": "29.5",
+        "source_chunk": "corvane_software_q4_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "net_debt": {
+        "name": "net_debt",
+        "value": 37.974,
+        "raw": "37,974",
+        "source_chunk": "corvane_software_q4_2025.pdf::1",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "cash": {
+        "name": "cash",
+        "value": 4.877,
+        "raw": "4,877",
+        "source_chunk": "corvane_software_q4_2025.pdf::1",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "leverage_ratio": {
+        "name": "leverage_ratio",
+        "value": 2.4,
+        "raw": "2.4x",
+        "source_chunk": "corvane_software_q4_2025.pdf::1",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "capex": {
+        "name": "capex",
+        "value": 1.086,
+        "raw": "1,086",
+        "source_chunk": "corvane_software_q4_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "headcount": {
+        "name": "headcount",
+        "value": 190,
+        "raw": "190",
+        "source_chunk": "corvane_software_q4_2025.pdf::6",
+        "page": 2,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "covenant_status": {
+        "name": "covenant_status",
+        "value": "compliant",
+        "raw": "compliant",
+        "source_chunk": "corvane_software_q4_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "guidance_low": {
+        "name": "guidance_low",
+        "value": 53.0,
+        "raw": "53m",
+        "source_chunk": "corvane_software_q4_2025.pdf::8",
+        "page": 2,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "guidance_high": {
+        "name": "guidance_high",
+        "value": 58.0,
+        "raw": "58m",
+        "source_chunk": "corvane_software_q4_2025.pdf::8",
+        "page": 2,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      }
+    },
+    "latency_s": 138.1217403000046
+  },
+  {
+    "doc_id": "fenwick_payments_q1_2025.pdf",
+    "company": "Fenwick Payments",
+    "period": "Q1 2025",
+    "model": "llamacpp/qwen2.5-3b-instruct-q4_k_m",
+    "fields": {
+      "revenue": {
+        "name": "revenue",
+        "value": 26.2,
+        "raw": "26.2",
+        "source_chunk": "fenwick_payments_q1_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "revenue_growth_pct": {
+        "name": "revenue_growth_pct",
+        "value": 17.0,
+        "raw": "17.0%",
+        "source_chunk": "fenwick_payments_q1_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "ebitda": {
+        "name": "ebitda",
+        "value": 6.9,
+        "raw": "6.9",
+        "source_chunk": "fenwick_payments_q1_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "ebitda_margin_pct": {
+        "name": "ebitda_margin_pct",
+        "value": 26.3,
+        "raw": "26.3%",
+        "source_chunk": "fenwick_payments_q1_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "net_debt": {
+        "name": "net_debt",
+        "value": 1.7,
+        "raw": "1.7x",
+        "source_chunk": "fenwick_payments_q1_2025.pdf::1",
+        "page": 1,
+        "grounded": true,
+        "issues": [
+          "'1.7x' looks like a ratio or percentage, not an amount",
+          "net debt / leverage implies LTM EBITDA of 1.0, vs ~27.6 from the quarter"
+        ],
+        "needs_review": true
+      },
+      "cash": {
+        "name": "cash",
+        "value": 9.0,
+        "raw": "9.0",
+        "source_chunk": "fenwick_payments_q1_2025.pdf::1",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "leverage_ratio": {
+        "name": "leverage_ratio",
+        "value": 1.7,
+        "raw": "1.7x",
+        "source_chunk": "fenwick_payments_q1_2025.pdf::1",
+        "page": 1,
+        "grounded": true,
+        "issues": [
+          "net debt / leverage implies LTM EBITDA of 1.0, vs ~27.6 from the quarter"
+        ],
+        "needs_review": true
+      },
+      "capex": {
+        "name": "capex",
+        "value": 2.3,
+        "raw": "2.3",
+        "source_chunk": "fenwick_payments_q1_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "headcount": {
+        "name": "headcount",
+        "value": 440,
+        "raw": "440",
+        "source_chunk": "fenwick_payments_q1_2025.pdf::6",
+        "page": 2,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "covenant_status": {
+        "name": "covenant_status",
+        "value": "compliant",
+        "raw": "compliant",
+        "source_chunk": "fenwick_payments_q1_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "guidance_low": {
+        "name": "guidance_low",
+        "value": 102.0,
+        "raw": "102.0m",
+        "source_chunk": "fenwick_payments_q1_2025.pdf::8",
+        "page": 2,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "guidance_high": {
+        "name": "guidance_high",
+        "value": 106.0,
+        "raw": "106.0m",
+        "source_chunk": "fenwick_payments_q1_2025.pdf::8",
+        "page": 2,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      }
+    },
+    "latency_s": 180.14819149998948
+  },
+  {
+    "doc_id": "fenwick_payments_q2_2025.pdf",
+    "company": "Fenwick Payments",
+    "period": "Q2 2025",
+    "model": "llamacpp/qwen2.5-3b-instruct-q4_k_m",
+    "fields": {
+      "revenue": {
+        "name": "revenue",
+        "value": 26.7,
+        "raw": "26.7m",
+        "source_chunk": "fenwick_payments_q2_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "revenue_growth_pct": {
+        "name": "revenue_growth_pct",
+        "value": 17.1,
+        "raw": "17.1%",
+        "source_chunk": "fenwick_payments_q2_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "ebitda": {
+        "name": "ebitda",
+        "value": 7.3,
+        "raw": "7.3m",
+        "source_chunk": "fenwick_payments_q2_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "ebitda_margin_pct": {
+        "name": "ebitda_margin_pct",
+        "value": 27.3,
+        "raw": "27.3%",
+        "source_chunk": "fenwick_payments_q2_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "net_debt": {
+        "name": "net_debt",
+        "value": 47.7,
+        "raw": "47.7",
+        "source_chunk": "fenwick_payments_q2_2025.pdf::1",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "cash": {
+        "name": "cash",
+        "value": 13.4,
+        "raw": "13.4",
+        "source_chunk": "fenwick_payments_q2_2025.pdf::1",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "leverage_ratio": {
+        "name": "leverage_ratio",
+        "value": 1.6,
+        "raw": "1.6x",
+        "source_chunk": "fenwick_payments_q2_2025.pdf::1",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "capex": {
+        "name": "capex",
+        "value": 2.2,
+        "raw": "2.2",
+        "source_chunk": "fenwick_payments_q2_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "headcount": {
+        "name": "headcount",
+        "value": 433,
+        "raw": "433",
+        "source_chunk": "fenwick_payments_q2_2025.pdf::6",
+        "page": 2,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "covenant_status": {
+        "name": "covenant_status",
+        "value": "compliant",
+        "raw": "compliant",
+        "source_chunk": "fenwick_payments_q2_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "guidance_low": {
+        "name": "guidance_low",
+        "value": 106.0,
+        "raw": "106m",
+        "source_chunk": "fenwick_payments_q2_2025.pdf::8",
+        "page": 2,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "guidance_high": {
+        "name": "guidance_high",
+        "value": 110.0,
+        "raw": "110m",
+        "source_chunk": "fenwick_payments_q2_2025.pdf::8",
+        "page": 2,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      }
+    },
+    "latency_s": 152.44814510000288
+  },
+  {
+    "doc_id": "fenwick_payments_q3_2025.pdf",
+    "company": "Fenwick Payments",
+    "period": "Q3 2025",
+    "model": "llamacpp/qwen2.5-3b-instruct-q4_k_m",
+    "fields": {
+      "revenue": {
+        "name": "revenue",
+        "value": 26.6,
+        "raw": "26.6m",
+        "source_chunk": "fenwick_payments_q3_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "revenue_growth_pct": {
+        "name": "revenue_growth_pct",
+        "value": 19.3,
+        "raw": "19.3%",
+        "source_chunk": "fenwick_payments_q3_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "ebitda": {
+        "name": "ebitda",
+        "value": 7.3,
+        "raw": "7.3m",
+        "source_chunk": "fenwick_payments_q3_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "ebitda_margin_pct": {
+        "name": "ebitda_margin_pct",
+        "value": 27.4,
+        "raw": "27.4%",
+        "source_chunk": "fenwick_payments_q3_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "net_debt": {
+        "name": "net_debt",
+        "value": 1.5,
+        "raw": "1.5x",
+        "source_chunk": "fenwick_payments_q3_2025.pdf::1",
+        "page": 1,
+        "grounded": true,
+        "issues": [
+          "'1.5x' looks like a ratio or percentage, not an amount",
+          "net debt / leverage implies LTM EBITDA of 1.0, vs ~29.2 from the quarter"
+        ],
+        "needs_review": true
+      },
+      "cash": {
+        "name": "cash",
+        "value": 15.6,
+        "raw": "15.6",
+        "source_chunk": "fenwick_payments_q3_2025.pdf::1",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "leverage_ratio": {
+        "name": "leverage_ratio",
+        "value": 1.5,
+        "raw": "1.5x",
+        "source_chunk": "fenwick_payments_q3_2025.pdf::1",
+        "page": 1,
+        "grounded": true,
+        "issues": [
+          "net debt / leverage implies LTM EBITDA of 1.0, vs ~29.2 from the quarter"
+        ],
+        "needs_review": true
+      },
+      "capex": {
+        "name": "capex",
+        "value": 1.4,
+        "raw": "1.4m",
+        "source_chunk": "fenwick_payments_q3_2025.pdf::6",
+        "page": 2,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "headcount": {
+        "name": "headcount",
+        "value": 441,
+        "raw": "441",
+        "source_chunk": "fenwick_payments_q3_2025.pdf::6",
+        "page": 2,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "covenant_status": {
+        "name": "covenant_status",
+        "value": "compliant",
+        "raw": "compliant",
+        "source_chunk": "fenwick_payments_q3_2025.pdf::1",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "guidance_low": {
+        "name": "guidance_low",
+        "value": 105.0,
+        "raw": "105m",
+        "source_chunk": "fenwick_payments_q3_2025.pdf::8",
+        "page": 2,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "guidance_high": {
+        "name": "guidance_high",
+        "value": 110.0,
+        "raw": "110m",
+        "source_chunk": "fenwick_payments_q3_2025.pdf::8",
+        "page": 2,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      }
+    },
+    "latency_s": 155.81859109998913
+  },
+  {
+    "doc_id": "fenwick_payments_q4_2025.pdf",
+    "company": "Fenwick Payments",
+    "period": "Q4 2025",
+    "model": "llamacpp/qwen2.5-3b-instruct-q4_k_m",
+    "fields": {
+      "revenue": {
+        "name": "revenue",
+        "value": 28.2,
+        "raw": "28.2",
+        "source_chunk": "fenwick_payments_q4_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "revenue_growth_pct": {
+        "name": "revenue_growth_pct",
+        "value": 16.0,
+        "raw": "16.0%",
+        "source_chunk": "fenwick_payments_q4_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "ebitda": {
+        "name": "ebitda",
+        "value": 7.8,
+        "raw": "7.8",
+        "source_chunk": "fenwick_payments_q4_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "ebitda_margin_pct": {
+        "name": "ebitda_margin_pct",
+        "value": 27.7,
+        "raw": "27.7%",
+        "source_chunk": "fenwick_payments_q4_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "net_debt": {
+        "name": "net_debt",
+        "value": 1.4,
+        "raw": "1.4x",
+        "source_chunk": "fenwick_payments_q4_2025.pdf::1",
+        "page": 1,
+        "grounded": true,
+        "issues": [
+          "'1.4x' looks like a ratio or percentage, not an amount",
+          "net debt / leverage implies LTM EBITDA of 1.0, vs ~31.2 from the quarter"
+        ],
+        "needs_review": true
+      },
+      "cash": {
+        "name": "cash",
+        "value": 11.9,
+        "raw": "11.9",
+        "source_chunk": "fenwick_payments_q4_2025.pdf::1",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "leverage_ratio": {
+        "name": "leverage_ratio",
+        "value": 1.4,
+        "raw": "1.4x",
+        "source_chunk": "fenwick_payments_q4_2025.pdf::1",
+        "page": 1,
+        "grounded": true,
+        "issues": [
+          "net debt / leverage implies LTM EBITDA of 1.0, vs ~31.2 from the quarter"
+        ],
+        "needs_review": true
+      },
+      "capex": {
+        "name": "capex",
+        "value": 1.5,
+        "raw": "1.5m",
+        "source_chunk": "fenwick_payments_q4_2025.pdf::1",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "headcount": {
+        "name": "headcount",
+        "value": 447,
+        "raw": "447",
+        "source_chunk": "fenwick_payments_q4_2025.pdf::6",
+        "page": 2,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "covenant_status": {
+        "name": "covenant_status",
+        "value": "compliant",
+        "raw": "compliant",
+        "source_chunk": "fenwick_payments_q4_2025.pdf::1",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "guidance_low": {
+        "name": "guidance_low",
+        "value": 113.0,
+        "raw": "113m",
+        "source_chunk": "fenwick_payments_q4_2025.pdf::8",
+        "page": 2,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "guidance_high": {
+        "name": "guidance_high",
+        "value": 118.0,
+        "raw": "118m",
+        "source_chunk": "fenwick_payments_q4_2025.pdf::8",
+        "page": 2,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      }
+    },
+    "latency_s": 155.26361480000196
+  },
+  {
+    "doc_id": "helios_e_mobility_q1_2025.pdf",
+    "company": "Helios E-Mobility",
+    "period": "Q1 2025",
+    "model": "llamacpp/qwen2.5-3b-instruct-q4_k_m",
+    "fields": {
+      "revenue": {
+        "name": "revenue",
+        "value": 18.336,
+        "raw": "18,336",
+        "source_chunk": "helios_e_mobility_q1_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "revenue_growth_pct": {
+        "name": "revenue_growth_pct",
+        "value": 33.6,
+        "raw": "33.6",
+        "source_chunk": "helios_e_mobility_q1_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "ebitda": {
+        "name": "ebitda",
+        "value": 1.953,
+        "raw": "1,953",
+        "source_chunk": "helios_e_mobility_q1_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "ebitda_margin_pct": {
+        "name": "ebitda_margin_pct",
+        "value": 10.7,
+        "raw": "10.7",
+        "source_chunk": "helios_e_mobility_q1_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "net_debt": {
+        "name": "net_debt",
+        "value": 62.66,
+        "raw": "62,660",
+        "source_chunk": "helios_e_mobility_q1_2025.pdf::1",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "cash": {
+        "name": "cash",
+        "value": 6.073,
+        "raw": "6,073",
+        "source_chunk": "helios_e_mobility_q1_2025.pdf::1",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "leverage_ratio": {
+        "name": "leverage_ratio",
+        "value": 8.3,
+        "raw": "8.3x",
+        "source_chunk": "helios_e_mobility_q1_2025.pdf::1",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "capex": {
+        "name": "capex",
+        "value": 0.807,
+        "raw": "807",
+        "source_chunk": "helios_e_mobility_q1_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "headcount": {
+        "name": "headcount",
+        "value": 326,
+        "raw": "326",
+        "source_chunk": "helios_e_mobility_q1_2025.pdf::6",
+        "page": 2,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "covenant_status": {
+        "name": "covenant_status",
+        "value": "compliant",
+        "raw": "compliant",
+        "source_chunk": "helios_e_mobility_q1_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "guidance_low": {
+        "name": "guidance_low",
+        "value": 71.0,
+        "raw": "71m",
+        "source_chunk": "helios_e_mobility_q1_2025.pdf::8",
+        "page": 2,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "guidance_high": {
+        "name": "guidance_high",
+        "value": 73.0,
+        "raw": "73m",
+        "source_chunk": "helios_e_mobility_q1_2025.pdf::8",
+        "page": 2,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      }
+    },
+    "latency_s": 192.48644490001607
+  },
+  {
+    "doc_id": "helios_e_mobility_q2_2025.pdf",
+    "company": "Helios E-Mobility",
+    "period": "Q2 2025",
+    "model": "llamacpp/qwen2.5-3b-instruct-q4_k_m",
+    "fields": {
+      "revenue": {
+        "name": "revenue",
+        "value": 19.318,
+        "raw": "19,318",
+        "source_chunk": "helios_e_mobility_q2_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "revenue_growth_pct": {
+        "name": "revenue_growth_pct",
+        "value": 33.5,
+        "raw": "33.5",
+        "source_chunk": "helios_e_mobility_q2_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "ebitda": {
+        "name": "ebitda",
+        "value": 2.116,
+        "raw": "2,116",
+        "source_chunk": "helios_e_mobility_q2_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "ebitda_margin_pct": {
+        "name": "ebitda_margin_pct",
+        "value": 11.0,
+        "raw": "11.0",
+        "source_chunk": "helios_e_mobility_q2_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "net_debt": {
+        "name": "net_debt",
+        "value": 61.252,
+        "raw": "61,252",
+        "source_chunk": "helios_e_mobility_q2_2025.pdf::1",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "cash": {
+        "name": "cash",
+        "value": 5.522,
+        "raw": "5,522",
+        "source_chunk": "helios_e_mobility_q2_2025.pdf::1",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "leverage_ratio": {
+        "name": "leverage_ratio",
+        "value": 7.3,
+        "raw": "7.3x",
+        "source_chunk": "helios_e_mobility_q2_2025.pdf::1",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "capex": {
+        "name": "capex",
+        "value": 1.236,
+        "raw": "1,236",
+        "source_chunk": "helios_e_mobility_q2_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "headcount": {
+        "name": "headcount",
+        "value": 332,
+        "raw": "332",
+        "source_chunk": "helios_e_mobility_q2_2025.pdf::6",
+        "page": 2,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "covenant_status": {
+        "name": "covenant_status",
+        "value": "compliant",
+        "raw": "compliant",
+        "source_chunk": "helios_e_mobility_q2_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "guidance_low": {
+        "name": "guidance_low",
+        "value": 78.0,
+        "raw": "78m",
+        "source_chunk": "helios_e_mobility_q2_2025.pdf::8",
+        "page": 2,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "guidance_high": {
+        "name": "guidance_high",
+        "value": 83.0,
+        "raw": "83m",
+        "source_chunk": "helios_e_mobility_q2_2025.pdf::8",
+        "page": 2,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      }
+    },
+    "latency_s": 161.04634929998429
+  },
+  {
+    "doc_id": "helios_e_mobility_q3_2025.pdf",
+    "company": "Helios E-Mobility",
+    "period": "Q3 2025",
+    "model": "llamacpp/qwen2.5-3b-instruct-q4_k_m",
+    "fields": {
+      "revenue": {
+        "name": "revenue",
+        "value": 18.388,
+        "raw": "18,388",
+        "source_chunk": "helios_e_mobility_q3_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "revenue_growth_pct": {
+        "name": "revenue_growth_pct",
+        "value": 33.2,
+        "raw": "33.2",
+        "source_chunk": "helios_e_mobility_q3_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "ebitda": {
+        "name": "ebitda",
+        "value": 1.928,
+        "raw": "1,928",
+        "source_chunk": "helios_e_mobility_q3_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "ebitda_margin_pct": {
+        "name": "ebitda_margin_pct",
+        "value": 10.5,
+        "raw": "10.5",
+        "source_chunk": "helios_e_mobility_q3_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "net_debt": {
+        "name": "net_debt",
+        "value": 59.682,
+        "raw": "59,682",
+        "source_chunk": "helios_e_mobility_q3_2025.pdf::1",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "cash": {
+        "name": "cash",
+        "value": 7.997,
+        "raw": "7,997",
+        "source_chunk": "helios_e_mobility_q3_2025.pdf::1",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "leverage_ratio": {
+        "name": "leverage_ratio",
+        "value": 7.5,
+        "raw": "7.5x",
+        "source_chunk": "helios_e_mobility_q3_2025.pdf::1",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "capex": {
+        "name": "capex",
+        "value": 0.713,
+        "raw": "713k",
+        "source_chunk": "helios_e_mobility_q3_2025.pdf::6",
+        "page": 2,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "headcount": {
+        "name": "headcount",
+        "value": 335,
+        "raw": "335",
+        "source_chunk": "helios_e_mobility_q3_2025.pdf::6",
+        "page": 2,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "covenant_status": {
+        "name": "covenant_status",
+        "value": "breach",
+        "raw": "breach",
+        "source_chunk": "helios_e_mobility_q3_2025.pdf::1",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "guidance_low": {
+        "name": "guidance_low",
+        "value": 73.0,
+        "raw": "73m",
+        "source_chunk": "helios_e_mobility_q3_2025.pdf::8",
+        "page": 2,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "guidance_high": {
+        "name": "guidance_high",
+        "value": 77.0,
+        "raw": "77m",
+        "source_chunk": "helios_e_mobility_q3_2025.pdf::8",
+        "page": 2,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      }
+    },
+    "latency_s": 170.50584500000696
+  },
+  {
+    "doc_id": "helios_e_mobility_q4_2025.pdf",
+    "company": "Helios E-Mobility",
+    "period": "Q4 2025",
+    "model": "llamacpp/qwen2.5-3b-instruct-q4_k_m",
+    "fields": {
+      "revenue": {
+        "name": "revenue",
+        "value": 20.349,
+        "raw": "20,349",
+        "source_chunk": "helios_e_mobility_q4_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "revenue_growth_pct": {
+        "name": "revenue_growth_pct",
+        "value": 35.4,
+        "raw": "35.4",
+        "source_chunk": "helios_e_mobility_q4_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "ebitda": {
+        "name": "ebitda",
+        "value": 1.747,
+        "raw": "1,747",
+        "source_chunk": "helios_e_mobility_q4_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "ebitda_margin_pct": {
+        "name": "ebitda_margin_pct",
+        "value": 8.6,
+        "raw": "8.6",
+        "source_chunk": "helios_e_mobility_q4_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "net_debt": {
+        "name": "net_debt",
+        "value": 59.802,
+        "raw": "59,802",
+        "source_chunk": "helios_e_mobility_q4_2025.pdf::1",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "cash": {
+        "name": "cash",
+        "value": 6.511,
+        "raw": "6,511",
+        "source_chunk": "helios_e_mobility_q4_2025.pdf::1",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "leverage_ratio": {
+        "name": "leverage_ratio",
+        "value": 8.4,
+        "raw": "8.4x",
+        "source_chunk": "helios_e_mobility_q4_2025.pdf::1",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "capex": {
+        "name": "capex",
+        "value": 1.212,
+        "raw": "1212",
+        "source_chunk": "helios_e_mobility_q4_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "headcount": {
+        "name": "headcount",
+        "value": 305,
+        "raw": "305",
+        "source_chunk": "helios_e_mobility_q4_2025.pdf::6",
+        "page": 2,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "covenant_status": {
+        "name": "covenant_status",
+        "value": "waiver",
+        "raw": "waiver",
+        "source_chunk": "helios_e_mobility_q4_2025.pdf::7",
+        "page": 2,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "guidance_low": {
+        "name": "guidance_low",
+        "value": 81.0,
+        "raw": "81,000",
+        "source_chunk": "helios_e_mobility_q4_2025.pdf::4",
+        "page": 1,
+        "grounded": false,
+        "issues": [],
+        "needs_review": true
+      },
+      "guidance_high": {
+        "name": "guidance_high",
+        "value": 85.0,
+        "raw": "85,000",
+        "source_chunk": "helios_e_mobility_q4_2025.pdf::4",
+        "page": 1,
+        "grounded": false,
+        "issues": [],
+        "needs_review": true
+      }
+    },
+    "latency_s": 154.85636269999668
+  },
+  {
+    "doc_id": "norbridge_logistics_q1_2025.pdf",
+    "company": "Norbridge Logistics",
+    "period": "Q1 2025",
+    "model": "llamacpp/qwen2.5-3b-instruct-q4_k_m",
+    "fields": {
+      "revenue": {
+        "name": "revenue",
+        "value": 72.0,
+        "raw": "72.0 m",
+        "source_chunk": "norbridge_logistics_q1_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "revenue_growth_pct": {
+        "name": "revenue_growth_pct",
+        "value": 4.0,
+        "raw": "4.0%",
+        "source_chunk": "norbridge_logistics_q1_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "ebitda": {
+        "name": "ebitda",
+        "value": 6.9,
+        "raw": "6.9 m",
+        "source_chunk": "norbridge_logistics_q1_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "ebitda_margin_pct": {
+        "name": "ebitda_margin_pct",
+        "value": 9.6,
+        "raw": "9.6%",
+        "source_chunk": "norbridge_logistics_q1_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "net_debt": {
+        "name": "net_debt",
+        "value": 143.4,
+        "raw": "143.4",
+        "source_chunk": "norbridge_logistics_q1_2025.pdf::1",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "cash": {
+        "name": "cash",
+        "value": 37.7,
+        "raw": "37.7",
+        "source_chunk": "norbridge_logistics_q1_2025.pdf::1",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "leverage_ratio": {
+        "name": "leverage_ratio",
+        "value": 5.1,
+        "raw": "5.1x",
+        "source_chunk": "norbridge_logistics_q1_2025.pdf::1",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "capex": {
+        "name": "capex",
+        "value": 5.4,
+        "raw": "5.4",
+        "source_chunk": "norbridge_logistics_q1_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "headcount": {
+        "name": "headcount",
+        "value": 2885,
+        "raw": "2885",
+        "source_chunk": "norbridge_logistics_q1_2025.pdf::6",
+        "page": 2,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "covenant_status": {
+        "name": "covenant_status",
+        "value": "compliant",
+        "raw": "compliant",
+        "source_chunk": "norbridge_logistics_q1_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "guidance_low": {
+        "name": "guidance_low",
+        "value": 283.0,
+        "raw": "283.0m",
+        "source_chunk": "norbridge_logistics_q1_2025.pdf::8",
+        "page": 2,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "guidance_high": {
+        "name": "guidance_high",
+        "value": 298.0,
+        "raw": "298.0m",
+        "source_chunk": "norbridge_logistics_q1_2025.pdf::8",
+        "page": 2,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      }
+    },
+    "latency_s": 192.2378633999906
+  },
+  {
+    "doc_id": "norbridge_logistics_q2_2025.pdf",
+    "company": "Norbridge Logistics",
+    "period": "Q2 2025",
+    "model": "llamacpp/qwen2.5-3b-instruct-q4_k_m",
+    "fields": {
+      "revenue": {
+        "name": "revenue",
+        "value": 73.2,
+        "raw": "73.2m",
+        "source_chunk": "norbridge_logistics_q2_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "revenue_growth_pct": {
+        "name": "revenue_growth_pct",
+        "value": 4.3,
+        "raw": "4.3%",
+        "source_chunk": "norbridge_logistics_q2_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "ebitda": {
+        "name": "ebitda",
+        "value": 7.0,
+        "raw": "7.0m",
+        "source_chunk": "norbridge_logistics_q2_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "ebitda_margin_pct": {
+        "name": "ebitda_margin_pct",
+        "value": 9.6,
+        "raw": "9.6%",
+        "source_chunk": "norbridge_logistics_q2_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "net_debt": {
+        "name": "net_debt",
+        "value": 135.8,
+        "raw": "135.8",
+        "source_chunk": "norbridge_logistics_q2_2025.pdf::1",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "cash": {
+        "name": "cash",
+        "value": 21.9,
+        "raw": "21.9",
+        "source_chunk": "norbridge_logistics_q2_2025.pdf::1",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "leverage_ratio": {
+        "name": "leverage_ratio",
+        "value": 4.8,
+        "raw": "4.8x",
+        "source_chunk": "norbridge_logistics_q2_2025.pdf::1",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "capex": {
+        "name": "capex",
+        "value": 6.5,
+        "raw": "6.5",
+        "source_chunk": "norbridge_logistics_q2_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "headcount": {
+        "name": "headcount",
+        "value": 2895,
+        "raw": "2895",
+        "source_chunk": "norbridge_logistics_q2_2025.pdf::6",
+        "page": 2,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "covenant_status": {
+        "name": "covenant_status",
+        "value": "compliant",
+        "raw": "compliant",
+        "source_chunk": "norbridge_logistics_q2_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "guidance_low": {
+        "name": "guidance_low",
+        "value": 282.0,
+        "raw": "282m",
+        "source_chunk": "norbridge_logistics_q2_2025.pdf::8",
+        "page": 2,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "guidance_high": {
+        "name": "guidance_high",
+        "value": 287.0,
+        "raw": "287m",
+        "source_chunk": "norbridge_logistics_q2_2025.pdf::8",
+        "page": 2,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      }
+    },
+    "latency_s": 186.29561209998792
+  },
+  {
+    "doc_id": "norbridge_logistics_q3_2025.pdf",
+    "company": "Norbridge Logistics",
+    "period": "Q3 2025",
+    "model": "llamacpp/qwen2.5-3b-instruct-q4_k_m",
+    "fields": {
+      "revenue": {
+        "name": "revenue",
+        "value": 70.7,
+        "raw": "70.7 m",
+        "source_chunk": "norbridge_logistics_q3_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "revenue_growth_pct": {
+        "name": "revenue_growth_pct",
+        "value": 4.1,
+        "raw": "4.1%",
+        "source_chunk": "norbridge_logistics_q3_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "ebitda": {
+        "name": "ebitda",
+        "value": 6.7,
+        "raw": "6.7 m",
+        "source_chunk": "norbridge_logistics_q3_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "ebitda_margin_pct": {
+        "name": "ebitda_margin_pct",
+        "value": 9.5,
+        "raw": "9.5%",
+        "source_chunk": "norbridge_logistics_q3_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "net_debt": {
+        "name": "net_debt",
+        "value": 138.6,
+        "raw": "138.6m",
+        "source_chunk": "norbridge_logistics_q3_2025.pdf::1",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "cash": {
+        "name": "cash",
+        "value": 21.2,
+        "raw": "21.2m",
+        "source_chunk": "norbridge_logistics_q3_2025.pdf::1",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "leverage_ratio": {
+        "name": "leverage_ratio",
+        "value": 5.4,
+        "raw": "5.4x",
+        "source_chunk": "norbridge_logistics_q3_2025.pdf::1",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "capex": {
+        "name": "capex",
+        "value": 4.7,
+        "raw": "4.7m",
+        "source_chunk": "norbridge_logistics_q3_2025.pdf::6",
+        "page": 2,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "headcount": {
+        "name": "headcount",
+        "value": 2919,
+        "raw": "2919",
+        "source_chunk": "norbridge_logistics_q3_2025.pdf::6",
+        "page": 2,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "covenant_status": {
+        "name": "covenant_status",
+        "value": "compliant",
+        "raw": "compliant",
+        "source_chunk": "norbridge_logistics_q3_2025.pdf::1",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "guidance_low": {
+        "name": "guidance_low",
+        "value": 276.0,
+        "raw": "276m",
+        "source_chunk": "norbridge_logistics_q3_2025.pdf::8",
+        "page": 2,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "guidance_high": {
+        "name": "guidance_high",
+        "value": 291.0,
+        "raw": "291m",
+        "source_chunk": "norbridge_logistics_q3_2025.pdf::8",
+        "page": 2,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      }
+    },
+    "latency_s": 175.50297229998978
+  },
+  {
+    "doc_id": "norbridge_logistics_q4_2025.pdf",
+    "company": "Norbridge Logistics",
+    "period": "Q4 2025",
+    "model": "llamacpp/qwen2.5-3b-instruct-q4_k_m",
+    "fields": {
+      "revenue": {
+        "name": "revenue",
+        "value": 77.6,
+        "raw": "77.6m",
+        "source_chunk": "norbridge_logistics_q4_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "revenue_growth_pct": {
+        "name": "revenue_growth_pct",
+        "value": 4.7,
+        "raw": "4.7%",
+        "source_chunk": "norbridge_logistics_q4_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "ebitda": {
+        "name": "ebitda",
+        "value": 6.8,
+        "raw": "6.8m",
+        "source_chunk": "norbridge_logistics_q4_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "ebitda_margin_pct": {
+        "name": "ebitda_margin_pct",
+        "value": 8.8,
+        "raw": "8.8%",
+        "source_chunk": "norbridge_logistics_q4_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "net_debt": {
+        "name": "net_debt",
+        "value": 133.1,
+        "raw": "133.1m",
+        "source_chunk": "norbridge_logistics_q4_2025.pdf::1",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "cash": {
+        "name": "cash",
+        "value": 32.4,
+        "raw": "32.4m",
+        "source_chunk": "norbridge_logistics_q4_2025.pdf::1",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "leverage_ratio": {
+        "name": "leverage_ratio",
+        "value": 4.9,
+        "raw": "4.9x",
+        "source_chunk": "norbridge_logistics_q4_2025.pdf::1",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "capex": {
+        "name": "capex",
+        "value": 6.7,
+        "raw": "6.7m",
+        "source_chunk": "norbridge_logistics_q4_2025.pdf::6",
+        "page": 2,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "headcount": {
+        "name": "headcount",
+        "value": 2974,
+        "raw": "2974",
+        "source_chunk": "norbridge_logistics_q4_2025.pdf::6",
+        "page": 2,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "covenant_status": {
+        "name": "covenant_status",
+        "value": "compliant",
+        "raw": "compliant",
+        "source_chunk": "norbridge_logistics_q4_2025.pdf::1",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "guidance_low": {
+        "name": "guidance_low",
+        "value": 312.0,
+        "raw": "312m",
+        "source_chunk": "norbridge_logistics_q4_2025.pdf::8",
+        "page": 2,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "guidance_high": {
+        "name": "guidance_high",
+        "value": 317.0,
+        "raw": "317m",
+        "source_chunk": "norbridge_logistics_q4_2025.pdf::8",
+        "page": 2,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      }
+    },
+    "latency_s": 165.59769639998558
+  },
+  {
+    "doc_id": "valtera_automotive_components_q1_2025.pdf",
+    "company": "Valtera Automotive Components",
+    "period": "Q1 2025",
+    "model": "llamacpp/qwen2.5-3b-instruct-q4_k_m",
+    "fields": {
+      "revenue": {
+        "name": "revenue",
+        "value": 51.6,
+        "raw": "51.6",
+        "source_chunk": "valtera_automotive_components_q1_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "revenue_growth_pct": {
+        "name": "revenue_growth_pct",
+        "value": 4.9,
+        "raw": "4.9%",
+        "source_chunk": "valtera_automotive_components_q1_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "ebitda": {
+        "name": "ebitda",
+        "value": 6.7,
+        "raw": "6.7",
+        "source_chunk": "valtera_automotive_components_q1_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "ebitda_margin_pct": {
+        "name": "ebitda_margin_pct",
+        "value": 13.0,
+        "raw": "13.0%",
+        "source_chunk": "valtera_automotive_components_q1_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "net_debt": {
+        "name": "net_debt",
+        "value": 2.6,
+        "raw": "2.6x",
+        "source_chunk": "valtera_automotive_components_q1_2025.pdf::1",
+        "page": 1,
+        "grounded": false,
+        "issues": [
+          "'2.6x' looks like a ratio or percentage, not an amount",
+          "net debt / leverage implies LTM EBITDA of 0.6, vs ~26.8 from the quarter"
+        ],
+        "needs_review": true
+      },
+      "cash": {
+        "name": "cash",
+        "value": 22.1,
+        "raw": "22.1",
+        "source_chunk": "valtera_automotive_components_q1_2025.pdf::1",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "leverage_ratio": {
+        "name": "leverage_ratio",
+        "value": 4.6,
+        "raw": "4.6x",
+        "source_chunk": "valtera_automotive_components_q1_2025.pdf::1",
+        "page": 1,
+        "grounded": true,
+        "issues": [
+          "net debt / leverage implies LTM EBITDA of 0.6, vs ~26.8 from the quarter"
+        ],
+        "needs_review": true
+      },
+      "capex": {
+        "name": "capex",
+        "value": 1.7,
+        "raw": "1.7",
+        "source_chunk": "valtera_automotive_components_q1_2025.pdf::6",
+        "page": 2,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "headcount": {
+        "name": "headcount",
+        "value": 1252,
+        "raw": "1252",
+        "source_chunk": "valtera_automotive_components_q1_2025.pdf::6",
+        "page": 2,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "covenant_status": {
+        "name": "covenant_status",
+        "value": "compliant",
+        "raw": "compliant",
+        "source_chunk": "valtera_automotive_components_q1_2025.pdf::1",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "guidance_low": {
+        "name": "guidance_low",
+        "value": 199.0,
+        "raw": "199.0",
+        "source_chunk": "valtera_automotive_components_q1_2025.pdf::8",
+        "page": 2,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "guidance_high": {
+        "name": "guidance_high",
+        "value": 204.0,
+        "raw": "204.0",
+        "source_chunk": "valtera_automotive_components_q1_2025.pdf::8",
+        "page": 2,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      }
+    },
+    "latency_s": 169.8289616999973
+  },
+  {
+    "doc_id": "valtera_automotive_components_q2_2025.pdf",
+    "company": "Valtera Automotive Components",
+    "period": "Q2 2025",
+    "model": "llamacpp/qwen2.5-3b-instruct-q4_k_m",
+    "fields": {
+      "revenue": {
+        "name": "revenue",
+        "value": 55.1,
+        "raw": "55.1",
+        "source_chunk": "valtera_automotive_components_q2_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "revenue_growth_pct": {
+        "name": "revenue_growth_pct",
+        "value": 5.4,
+        "raw": "5.4",
+        "source_chunk": "valtera_automotive_components_q2_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "ebitda": {
+        "name": "ebitda",
+        "value": 7.2,
+        "raw": "7.2",
+        "source_chunk": "valtera_automotive_components_q2_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "ebitda_margin_pct": {
+        "name": "ebitda_margin_pct",
+        "value": 13.1,
+        "raw": "13.1%",
+        "source_chunk": "valtera_automotive_components_q2_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "net_debt": {
+        "name": "net_debt",
+        "value": 4.2,
+        "raw": "4.2x",
+        "source_chunk": "valtera_automotive_components_q2_2025.pdf::1",
+        "page": 1,
+        "grounded": true,
+        "issues": [
+          "'4.2x' looks like a ratio or percentage, not an amount",
+          "net debt / leverage implies LTM EBITDA of 1.0, vs ~28.8 from the quarter"
+        ],
+        "needs_review": true
+      },
+      "cash": {
+        "name": "cash",
+        "value": 25.0,
+        "raw": "25.0",
+        "source_chunk": "valtera_automotive_components_q2_2025.pdf::1",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "leverage_ratio": {
+        "name": "leverage_ratio",
+        "value": 4.2,
+        "raw": "4.2x",
+        "source_chunk": "valtera_automotive_components_q2_2025.pdf::1",
+        "page": 1,
+        "grounded": true,
+        "issues": [
+          "net debt / leverage implies LTM EBITDA of 1.0, vs ~28.8 from the quarter"
+        ],
+        "needs_review": true
+      },
+      "capex": {
+        "name": "capex",
+        "value": 3.8,
+        "raw": "3.8",
+        "source_chunk": "valtera_automotive_components_q2_2025.pdf::6",
+        "page": 2,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "headcount": {
+        "name": "headcount",
+        "value": 1260,
+        "raw": "1260",
+        "source_chunk": "valtera_automotive_components_q2_2025.pdf::6",
+        "page": 2,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "covenant_status": {
+        "name": "covenant_status",
+        "value": "compliant",
+        "raw": "compliant",
+        "source_chunk": "valtera_automotive_components_q2_2025.pdf::1",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "guidance_low": {
+        "name": "guidance_low",
+        "value": 218.0,
+        "raw": "218m",
+        "source_chunk": "valtera_automotive_components_q2_2025.pdf::8",
+        "page": 2,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "guidance_high": {
+        "name": "guidance_high",
+        "value": 223.0,
+        "raw": "223m",
+        "source_chunk": "valtera_automotive_components_q2_2025.pdf::8",
+        "page": 2,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      }
+    },
+    "latency_s": 166.58094109999365
+  },
+  {
+    "doc_id": "valtera_automotive_components_q3_2025.pdf",
+    "company": "Valtera Automotive Components",
+    "period": "Q3 2025",
+    "model": "llamacpp/qwen2.5-3b-instruct-q4_k_m",
+    "fields": {
+      "revenue": {
+        "name": "revenue",
+        "value": 51.6,
+        "raw": "51.6 m",
+        "source_chunk": "valtera_automotive_components_q3_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "revenue_growth_pct": {
+        "name": "revenue_growth_pct",
+        "value": 5.5,
+        "raw": "5.5%",
+        "source_chunk": "valtera_automotive_components_q3_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "ebitda": {
+        "name": "ebitda",
+        "value": 7.1,
+        "raw": "7.1 m",
+        "source_chunk": "valtera_automotive_components_q3_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "ebitda_margin_pct": {
+        "name": "ebitda_margin_pct",
+        "value": 13.8,
+        "raw": "13.8%",
+        "source_chunk": "valtera_automotive_components_q3_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "net_debt": {
+        "name": "net_debt",
+        "value": 114.0,
+        "raw": "114.0",
+        "source_chunk": "valtera_automotive_components_q3_2025.pdf::1",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "cash": {
+        "name": "cash",
+        "value": 22.1,
+        "raw": "22.1",
+        "source_chunk": "valtera_automotive_components_q3_2025.pdf::1",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "leverage_ratio": {
+        "name": "leverage_ratio",
+        "value": 4.2,
+        "raw": "4.2x",
+        "source_chunk": "valtera_automotive_components_q3_2025.pdf::1",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "capex": {
+        "name": "capex",
+        "value": 2.1,
+        "raw": "2.1",
+        "source_chunk": "valtera_automotive_components_q3_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "headcount": {
+        "name": "headcount",
+        "value": 1270,
+        "raw": "1270",
+        "source_chunk": "valtera_automotive_components_q3_2025.pdf::6",
+        "page": 2,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "covenant_status": {
+        "name": "covenant_status",
+        "value": "compliant",
+        "raw": "compliant",
+        "source_chunk": "valtera_automotive_components_q3_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "guidance_low": {
+        "name": "guidance_low",
+        "value": 208.0,
+        "raw": "208m",
+        "source_chunk": "valtera_automotive_components_q3_2025.pdf::8",
+        "page": 2,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "guidance_high": {
+        "name": "guidance_high",
+        "value": 218.0,
+        "raw": "218m",
+        "source_chunk": "valtera_automotive_components_q3_2025.pdf::8",
+        "page": 2,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      }
+    },
+    "latency_s": 166.14585249999072
+  },
+  {
+    "doc_id": "valtera_automotive_components_q4_2025.pdf",
+    "company": "Valtera Automotive Components",
+    "period": "Q4 2025",
+    "model": "llamacpp/qwen2.5-3b-instruct-q4_k_m",
+    "fields": {
+      "revenue": {
+        "name": "revenue",
+        "value": 55.9,
+        "raw": "55.9",
+        "source_chunk": "valtera_automotive_components_q4_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "revenue_growth_pct": {
+        "name": "revenue_growth_pct",
+        "value": 7.5,
+        "raw": "7.5",
+        "source_chunk": "valtera_automotive_components_q4_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "ebitda": {
+        "name": "ebitda",
+        "value": 8.8,
+        "raw": "8.8",
+        "source_chunk": "valtera_automotive_components_q4_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "ebitda_margin_pct": {
+        "name": "ebitda_margin_pct",
+        "value": 15.7,
+        "raw": "15.7%",
+        "source_chunk": "valtera_automotive_components_q4_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "net_debt": {
+        "name": "net_debt",
+        "value": 3.2,
+        "raw": "3.2x",
+        "source_chunk": "valtera_automotive_components_q4_2025.pdf::1",
+        "page": 1,
+        "grounded": true,
+        "issues": [
+          "'3.2x' looks like a ratio or percentage, not an amount",
+          "net debt / leverage implies LTM EBITDA of 1.0, vs ~35.2 from the quarter"
+        ],
+        "needs_review": true
+      },
+      "cash": {
+        "name": "cash",
+        "value": 27.1,
+        "raw": "27.1",
+        "source_chunk": "valtera_automotive_components_q4_2025.pdf::1",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "leverage_ratio": {
+        "name": "leverage_ratio",
+        "value": 3.2,
+        "raw": "3.2x",
+        "source_chunk": "valtera_automotive_components_q4_2025.pdf::1",
+        "page": 1,
+        "grounded": true,
+        "issues": [
+          "net debt / leverage implies LTM EBITDA of 1.0, vs ~35.2 from the quarter"
+        ],
+        "needs_review": true
+      },
+      "capex": {
+        "name": "capex",
+        "value": 1.8,
+        "raw": "1.8",
+        "source_chunk": "valtera_automotive_components_q4_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "headcount": {
+        "name": "headcount",
+        "value": 1291,
+        "raw": "1291",
+        "source_chunk": "valtera_automotive_components_q4_2025.pdf::6",
+        "page": 2,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "covenant_status": {
+        "name": "covenant_status",
+        "value": "compliant",
+        "raw": "compliant",
+        "source_chunk": "valtera_automotive_components_q4_2025.pdf::0",
+        "page": 1,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "guidance_low": {
+        "name": "guidance_low",
+        "value": 217.0,
+        "raw": "217m",
+        "source_chunk": "valtera_automotive_components_q4_2025.pdf::8",
+        "page": 2,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      },
+      "guidance_high": {
+        "name": "guidance_high",
+        "value": 222.0,
+        "raw": "222m",
+        "source_chunk": "valtera_automotive_components_q4_2025.pdf::8",
+        "page": 2,
+        "grounded": true,
+        "issues": [],
+        "needs_review": false
+      }
+    },
+    "latency_s": 174.32837740000105
+  }
+]

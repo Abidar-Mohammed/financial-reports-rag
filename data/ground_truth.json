@@ -1,0 +1,1066 @@
+{
+  "valtera_automotive_components_q1_2025.pdf": {
+    "company": "Valtera Automotive Components",
+    "period": "Q1 2025",
+    "currency": "EUR",
+    "fields": {
+      "revenue": 51.6,
+      "revenue_growth_pct": 4.9,
+      "ebitda": 6.7,
+      "ebitda_margin_pct": 13.0,
+      "net_debt": 117.0,
+      "cash": 22.1,
+      "leverage_ratio": 4.6,
+      "capex": 1.7,
+      "headcount": 1252,
+      "covenant_status": "compliant",
+      "guidance_low": 199.0,
+      "guidance_high": 204.0
+    },
+    "evidence": {
+      "revenue": "51.6",
+      "revenue_growth_pct": "4.9%",
+      "ebitda": "6.7",
+      "ebitda_margin_pct": "13.0%",
+      "net_debt": "117.0",
+      "cash": "22.1",
+      "leverage_ratio": "4.6x",
+      "capex": "€1.7 million",
+      "headcount": "1,252",
+      "covenant_status": "in compliance",
+      "guidance_low": "€199m",
+      "guidance_high": "€204m"
+    },
+    "difficulty": {
+      "unit": "m",
+      "capex_location": "text",
+      "template": "A"
+    }
+  },
+  "valtera_automotive_components_q2_2025.pdf": {
+    "company": "Valtera Automotive Components",
+    "period": "Q2 2025",
+    "currency": "EUR",
+    "fields": {
+      "revenue": 55.1,
+      "revenue_growth_pct": 5.4,
+      "ebitda": 7.2,
+      "ebitda_margin_pct": 13.1,
+      "net_debt": 117.8,
+      "cash": 25.0,
+      "leverage_ratio": 4.2,
+      "capex": 3.8,
+      "headcount": 1260,
+      "covenant_status": "compliant",
+      "guidance_low": 218.0,
+      "guidance_high": 223.0
+    },
+    "evidence": {
+      "revenue": "55.1",
+      "revenue_growth_pct": "5.4%",
+      "ebitda": "7.2",
+      "ebitda_margin_pct": "13.1%",
+      "net_debt": "117.8",
+      "cash": "25.0",
+      "leverage_ratio": "4.2x",
+      "capex": "€3.8 million",
+      "headcount": "1,260",
+      "covenant_status": "in compliance",
+      "guidance_low": "€218m",
+      "guidance_high": "€223m"
+    },
+    "difficulty": {
+      "unit": "m",
+      "capex_location": "text",
+      "template": "A"
+    }
+  },
+  "valtera_automotive_components_q3_2025.pdf": {
+    "company": "Valtera Automotive Components",
+    "period": "Q3 2025",
+    "currency": "EUR",
+    "fields": {
+      "revenue": 51.6,
+      "revenue_growth_pct": 5.5,
+      "ebitda": 7.1,
+      "ebitda_margin_pct": 13.8,
+      "net_debt": 114.0,
+      "cash": 22.1,
+      "leverage_ratio": 4.2,
+      "capex": 2.1,
+      "headcount": 1270,
+      "covenant_status": "compliant",
+      "guidance_low": 208.0,
+      "guidance_high": 218.0
+    },
+    "evidence": {
+      "revenue": "51.6",
+      "revenue_growth_pct": "5.5%",
+      "ebitda": "7.1",
+      "ebitda_margin_pct": "13.8%",
+      "net_debt": "114.0",
+      "cash": "22.1",
+      "leverage_ratio": "4.2x",
+      "capex": "2.1",
+      "headcount": "1,270",
+      "covenant_status": "in compliance",
+      "guidance_low": "€208m",
+      "guidance_high": "€218m"
+    },
+    "difficulty": {
+      "unit": "m",
+      "capex_location": "table",
+      "template": "A"
+    }
+  },
+  "valtera_automotive_components_q4_2025.pdf": {
+    "company": "Valtera Automotive Components",
+    "period": "Q4 2025",
+    "currency": "EUR",
+    "fields": {
+      "revenue": 55.9,
+      "revenue_growth_pct": 7.5,
+      "ebitda": 8.8,
+      "ebitda_margin_pct": 15.7,
+      "net_debt": 109.5,
+      "cash": 27.1,
+      "leverage_ratio": 3.2,
+      "capex": 1.8,
+      "headcount": 1291,
+      "covenant_status": "compliant",
+      "guidance_low": 217.0,
+      "guidance_high": 222.0
+    },
+    "evidence": {
+      "revenue": "55.9",
+      "revenue_growth_pct": "7.5%",
+      "ebitda": "8.8",
+      "ebitda_margin_pct": "15.7%",
+      "net_debt": "109.5",
+      "cash": "27.1",
+      "leverage_ratio": "3.2x",
+      "capex": "1.8",
+      "headcount": "1,291",
+      "covenant_status": "in compliance",
+      "guidance_low": "€217m",
+      "guidance_high": "€222m"
+    },
+    "difficulty": {
+      "unit": "m",
+      "capex_location": "table",
+      "template": "A"
+    }
+  },
+  "helios_e_mobility_q1_2025.pdf": {
+    "company": "Helios E-Mobility",
+    "period": "Q1 2025",
+    "currency": "EUR",
+    "fields": {
+      "revenue": 18.336,
+      "revenue_growth_pct": 33.6,
+      "ebitda": 1.953,
+      "ebitda_margin_pct": 10.7,
+      "net_debt": 62.66,
+      "cash": 6.073,
+      "leverage_ratio": 8.3,
+      "capex": 0.807,
+      "headcount": 326,
+      "covenant_status": "compliant",
+      "guidance_low": 71.0,
+      "guidance_high": 73.0
+    },
+    "evidence": {
+      "revenue": "18,336",
+      "revenue_growth_pct": "33.6%",
+      "ebitda": "1,953",
+      "ebitda_margin_pct": "10.7%",
+      "net_debt": "62,660",
+      "cash": "6,073",
+      "leverage_ratio": "8.3x",
+      "capex": "807",
+      "headcount": "326",
+      "covenant_status": "in compliance",
+      "guidance_low": "€71m",
+      "guidance_high": "€73m"
+    },
+    "difficulty": {
+      "unit": "k",
+      "capex_location": "table",
+      "template": "A"
+    }
+  },
+  "helios_e_mobility_q2_2025.pdf": {
+    "company": "Helios E-Mobility",
+    "period": "Q2 2025",
+    "currency": "EUR",
+    "fields": {
+      "revenue": 19.318,
+      "revenue_growth_pct": 33.5,
+      "ebitda": 2.116,
+      "ebitda_margin_pct": 11.0,
+      "net_debt": 61.252,
+      "cash": 5.522,
+      "leverage_ratio": 7.3,
+      "capex": 1.236,
+      "headcount": 332,
+      "covenant_status": "compliant",
+      "guidance_low": 78.0,
+      "guidance_high": 83.0
+    },
+    "evidence": {
+      "revenue": "19,318",
+      "revenue_growth_pct": "33.5%",
+      "ebitda": "2,116",
+      "ebitda_margin_pct": "11.0%",
+      "net_debt": "61,252",
+      "cash": "5,522",
+      "leverage_ratio": "7.3x",
+      "capex": "1,236",
+      "headcount": "332",
+      "covenant_status": "in compliance",
+      "guidance_low": "€78m",
+      "guidance_high": "€83m"
+    },
+    "difficulty": {
+      "unit": "k",
+      "capex_location": "table",
+      "template": "A"
+    }
+  },
+  "helios_e_mobility_q3_2025.pdf": {
+    "company": "Helios E-Mobility",
+    "period": "Q3 2025",
+    "currency": "EUR",
+    "fields": {
+      "revenue": 18.388,
+      "revenue_growth_pct": 33.2,
+      "ebitda": 1.928,
+      "ebitda_margin_pct": 10.5,
+      "net_debt": 59.682,
+      "cash": 7.997,
+      "leverage_ratio": 7.5,
+      "capex": 0.713,
+      "headcount": 335,
+      "covenant_status": "breach",
+      "guidance_low": 73.0,
+      "guidance_high": 77.0
+    },
+    "evidence": {
+      "revenue": "18,388",
+      "revenue_growth_pct": "33.2%",
+      "ebitda": "1,928",
+      "ebitda_margin_pct": "10.5%",
+      "net_debt": "59,682",
+      "cash": "7,997",
+      "leverage_ratio": "7.5x",
+      "capex": "EUR 713k",
+      "headcount": "335",
+      "covenant_status": "was breached",
+      "guidance_low": "€73m",
+      "guidance_high": "€77m"
+    },
+    "difficulty": {
+      "unit": "k",
+      "capex_location": "text",
+      "template": "A"
+    }
+  },
+  "helios_e_mobility_q4_2025.pdf": {
+    "company": "Helios E-Mobility",
+    "period": "Q4 2025",
+    "currency": "EUR",
+    "fields": {
+      "revenue": 20.349,
+      "revenue_growth_pct": 35.4,
+      "ebitda": 1.747,
+      "ebitda_margin_pct": 8.6,
+      "net_debt": 59.802,
+      "cash": 6.511,
+      "leverage_ratio": 8.4,
+      "capex": 1.212,
+      "headcount": 305,
+      "covenant_status": "waiver",
+      "guidance_low": 81.0,
+      "guidance_high": 85.0
+    },
+    "evidence": {
+      "revenue": "20,349",
+      "revenue_growth_pct": "35.4%",
+      "ebitda": "1,747",
+      "ebitda_margin_pct": "8.6%",
+      "net_debt": "59,802",
+      "cash": "6,511",
+      "leverage_ratio": "8.4x",
+      "capex": "1,212",
+      "headcount": "305",
+      "covenant_status": "covenant waiver",
+      "guidance_low": "€81m",
+      "guidance_high": "€85m"
+    },
+    "difficulty": {
+      "unit": "k",
+      "capex_location": "table",
+      "template": "A"
+    }
+  },
+  "norbridge_logistics_q1_2025.pdf": {
+    "company": "Norbridge Logistics",
+    "period": "Q1 2025",
+    "currency": "EUR",
+    "fields": {
+      "revenue": 72.0,
+      "revenue_growth_pct": 4.0,
+      "ebitda": 6.9,
+      "ebitda_margin_pct": 9.6,
+      "net_debt": 143.4,
+      "cash": 37.7,
+      "leverage_ratio": 5.1,
+      "capex": 5.4,
+      "headcount": 2885,
+      "covenant_status": "compliant",
+      "guidance_low": 283.0,
+      "guidance_high": 298.0
+    },
+    "evidence": {
+      "revenue": "72.0",
+      "revenue_growth_pct": "4.0%",
+      "ebitda": "6.9",
+      "ebitda_margin_pct": "9.6%",
+      "net_debt": "143.4",
+      "cash": "37.7",
+      "leverage_ratio": "5.1x",
+      "capex": "5.4",
+      "headcount": "2,885",
+      "covenant_status": "in compliance",
+      "guidance_low": "€283m",
+      "guidance_high": "€298m"
+    },
+    "difficulty": {
+      "unit": "m",
+      "capex_location": "table",
+      "template": "A"
+    }
+  },
+  "norbridge_logistics_q2_2025.pdf": {
+    "company": "Norbridge Logistics",
+    "period": "Q2 2025",
+    "currency": "EUR",
+    "fields": {
+      "revenue": 73.2,
+      "revenue_growth_pct": 4.3,
+      "ebitda": 7.0,
+      "ebitda_margin_pct": 9.6,
+      "net_debt": 135.8,
+      "cash": 21.9,
+      "leverage_ratio": 4.8,
+      "capex": 6.5,
+      "headcount": 2895,
+      "covenant_status": "compliant",
+      "guidance_low": 282.0,
+      "guidance_high": 287.0
+    },
+    "evidence": {
+      "revenue": "73.2",
+      "revenue_growth_pct": "4.3%",
+      "ebitda": "7.0",
+      "ebitda_margin_pct": "9.6%",
+      "net_debt": "135.8",
+      "cash": "21.9",
+      "leverage_ratio": "4.8x",
+      "capex": "6.5",
+      "headcount": "2,895",
+      "covenant_status": "in compliance",
+      "guidance_low": "€282m",
+      "guidance_high": "€287m"
+    },
+    "difficulty": {
+      "unit": "m",
+      "capex_location": "table",
+      "template": "A"
+    }
+  },
+  "norbridge_logistics_q3_2025.pdf": {
+    "company": "Norbridge Logistics",
+    "period": "Q3 2025",
+    "currency": "EUR",
+    "fields": {
+      "revenue": 70.7,
+      "revenue_growth_pct": 4.1,
+      "ebitda": 6.7,
+      "ebitda_margin_pct": 9.5,
+      "net_debt": 138.6,
+      "cash": 21.2,
+      "leverage_ratio": 5.4,
+      "capex": 4.7,
+      "headcount": 2919,
+      "covenant_status": "compliant",
+      "guidance_low": 276.0,
+      "guidance_high": 291.0
+    },
+    "evidence": {
+      "revenue": "70.7",
+      "revenue_growth_pct": "4.1%",
+      "ebitda": "6.7",
+      "ebitda_margin_pct": "9.5%",
+      "net_debt": "138.6",
+      "cash": "21.2",
+      "leverage_ratio": "5.4x",
+      "capex": "€4.7 million",
+      "headcount": "2,919",
+      "covenant_status": "in compliance",
+      "guidance_low": "€276m",
+      "guidance_high": "€291m"
+    },
+    "difficulty": {
+      "unit": "m",
+      "capex_location": "text",
+      "template": "A"
+    }
+  },
+  "norbridge_logistics_q4_2025.pdf": {
+    "company": "Norbridge Logistics",
+    "period": "Q4 2025",
+    "currency": "EUR",
+    "fields": {
+      "revenue": 77.6,
+      "revenue_growth_pct": 4.7,
+      "ebitda": 6.8,
+      "ebitda_margin_pct": 8.8,
+      "net_debt": 133.1,
+      "cash": 32.4,
+      "leverage_ratio": 4.9,
+      "capex": 6.7,
+      "headcount": 2974,
+      "covenant_status": "compliant",
+      "guidance_low": 312.0,
+      "guidance_high": 317.0
+    },
+    "evidence": {
+      "revenue": "77.6",
+      "revenue_growth_pct": "4.7%",
+      "ebitda": "6.8",
+      "ebitda_margin_pct": "8.8%",
+      "net_debt": "133.1",
+      "cash": "32.4",
+      "leverage_ratio": "4.9x",
+      "capex": "€6.7 million",
+      "headcount": "2,974",
+      "covenant_status": "in compliance",
+      "guidance_low": "€312m",
+      "guidance_high": "€317m"
+    },
+    "difficulty": {
+      "unit": "m",
+      "capex_location": "text",
+      "template": "A"
+    }
+  },
+  "clarion_diagnostics_q1_2025.pdf": {
+    "company": "Clarion Diagnostics",
+    "period": "Q1 2025",
+    "currency": "USD",
+    "fields": {
+      "revenue": 38.443,
+      "revenue_growth_pct": 11.7,
+      "ebitda": 8.326,
+      "ebitda_margin_pct": 21.7,
+      "net_debt": 154.054,
+      "cash": 22.93,
+      "leverage_ratio": 4.7,
+      "capex": 3.073,
+      "headcount": 955,
+      "covenant_status": "compliant",
+      "guidance_low": 155.0,
+      "guidance_high": 165.0
+    },
+    "evidence": {
+      "revenue": "38,443",
+      "revenue_growth_pct": "11.7%",
+      "ebitda": "8,326",
+      "ebitda_margin_pct": "21.7%",
+      "net_debt": "154,054",
+      "cash": "22,930",
+      "leverage_ratio": "4.7x",
+      "capex": "3,073",
+      "headcount": "955",
+      "covenant_status": "in compliance",
+      "guidance_low": "$155m",
+      "guidance_high": "$165m"
+    },
+    "difficulty": {
+      "unit": "k",
+      "capex_location": "table",
+      "template": "A"
+    }
+  },
+  "clarion_diagnostics_q2_2025.pdf": {
+    "company": "Clarion Diagnostics",
+    "period": "Q2 2025",
+    "currency": "USD",
+    "fields": {
+      "revenue": 41.524,
+      "revenue_growth_pct": 7.8,
+      "ebitda": 8.769,
+      "ebitda_margin_pct": 21.1,
+      "net_debt": 149.808,
+      "cash": 16.518,
+      "leverage_ratio": 4.4,
+      "capex": 3.516,
+      "headcount": 970,
+      "covenant_status": "compliant",
+      "guidance_low": 161.0,
+      "guidance_high": 176.0
+    },
+    "evidence": {
+      "revenue": "41,524",
+      "revenue_growth_pct": "7.8%",
+      "ebitda": "8,769",
+      "ebitda_margin_pct": "21.1%",
+      "net_debt": "149,808",
+      "cash": "16,518",
+      "leverage_ratio": "4.4x",
+      "capex": "USD 3,516k",
+      "headcount": "970",
+      "covenant_status": "in compliance",
+      "guidance_low": "$161m",
+      "guidance_high": "$176m"
+    },
+    "difficulty": {
+      "unit": "k",
+      "capex_location": "text",
+      "template": "A"
+    }
+  },
+  "clarion_diagnostics_q3_2025.pdf": {
+    "company": "Clarion Diagnostics",
+    "period": "Q3 2025",
+    "currency": "USD",
+    "fields": {
+      "revenue": 39.56,
+      "revenue_growth_pct": 8.4,
+      "ebitda": 8.452,
+      "ebitda_margin_pct": 21.4,
+      "net_debt": 153.213,
+      "cash": 22.565,
+      "leverage_ratio": 4.6,
+      "capex": 2.662,
+      "headcount": 966,
+      "covenant_status": "compliant",
+      "guidance_low": 159.0,
+      "guidance_high": 164.0
+    },
+    "evidence": {
+      "revenue": "39,560",
+      "revenue_growth_pct": "8.4%",
+      "ebitda": "8,452",
+      "ebitda_margin_pct": "21.4%",
+      "net_debt": "153,213",
+      "cash": "22,565",
+      "leverage_ratio": "4.6x",
+      "capex": "2,662",
+      "headcount": "966",
+      "covenant_status": "in compliance",
+      "guidance_low": "$159m",
+      "guidance_high": "$164m"
+    },
+    "difficulty": {
+      "unit": "k",
+      "capex_location": "table",
+      "template": "A"
+    }
+  },
+  "clarion_diagnostics_q4_2025.pdf": {
+    "company": "Clarion Diagnostics",
+    "period": "Q4 2025",
+    "currency": "USD",
+    "fields": {
+      "revenue": 43.103,
+      "revenue_growth_pct": 10.1,
+      "ebitda": 9.666,
+      "ebitda_margin_pct": 22.4,
+      "net_debt": 142.258,
+      "cash": 17.296,
+      "leverage_ratio": 3.6,
+      "capex": 2.573,
+      "headcount": 998,
+      "covenant_status": "compliant",
+      "guidance_low": 171.0,
+      "guidance_high": 176.0
+    },
+    "evidence": {
+      "revenue": "43,103",
+      "revenue_growth_pct": "10.1%",
+      "ebitda": "9,666",
+      "ebitda_margin_pct": "22.4%",
+      "net_debt": "142,258",
+      "cash": "17,296",
+      "leverage_ratio": "3.6x",
+      "capex": "2,573",
+      "headcount": "998",
+      "covenant_status": "in compliance",
+      "guidance_low": "$171m",
+      "guidance_high": "$176m"
+    },
+    "difficulty": {
+      "unit": "k",
+      "capex_location": "table",
+      "template": "A"
+    }
+  },
+  "fenwick_payments_q1_2025.pdf": {
+    "company": "Fenwick Payments",
+    "period": "Q1 2025",
+    "currency": "GBP",
+    "fields": {
+      "revenue": 26.2,
+      "revenue_growth_pct": 17.0,
+      "ebitda": 6.9,
+      "ebitda_margin_pct": 26.3,
+      "net_debt": 47.0,
+      "cash": 9.0,
+      "leverage_ratio": 1.7,
+      "capex": 2.3,
+      "headcount": 440,
+      "covenant_status": "compliant",
+      "guidance_low": 102.0,
+      "guidance_high": 106.0
+    },
+    "evidence": {
+      "revenue": "26.2",
+      "revenue_growth_pct": "17.0%",
+      "ebitda": "6.9",
+      "ebitda_margin_pct": "26.3%",
+      "net_debt": "47.0",
+      "cash": "9.0",
+      "leverage_ratio": "1.7x",
+      "capex": "2.3",
+      "headcount": "440",
+      "covenant_status": "in compliance",
+      "guidance_low": "£102m",
+      "guidance_high": "£106m"
+    },
+    "difficulty": {
+      "unit": "m",
+      "capex_location": "table",
+      "template": "A"
+    }
+  },
+  "fenwick_payments_q2_2025.pdf": {
+    "company": "Fenwick Payments",
+    "period": "Q2 2025",
+    "currency": "GBP",
+    "fields": {
+      "revenue": 26.7,
+      "revenue_growth_pct": 17.1,
+      "ebitda": 7.3,
+      "ebitda_margin_pct": 27.3,
+      "net_debt": 47.7,
+      "cash": 13.4,
+      "leverage_ratio": 1.6,
+      "capex": 2.2,
+      "headcount": 433,
+      "covenant_status": "compliant",
+      "guidance_low": 106.0,
+      "guidance_high": 110.0
+    },
+    "evidence": {
+      "revenue": "26.7",
+      "revenue_growth_pct": "17.1%",
+      "ebitda": "7.3",
+      "ebitda_margin_pct": "27.3%",
+      "net_debt": "47.7",
+      "cash": "13.4",
+      "leverage_ratio": "1.6x",
+      "capex": "2.2",
+      "headcount": "433",
+      "covenant_status": "in compliance",
+      "guidance_low": "£106m",
+      "guidance_high": "£110m"
+    },
+    "difficulty": {
+      "unit": "m",
+      "capex_location": "table",
+      "template": "A"
+    }
+  },
+  "fenwick_payments_q3_2025.pdf": {
+    "company": "Fenwick Payments",
+    "period": "Q3 2025",
+    "currency": "GBP",
+    "fields": {
+      "revenue": 26.6,
+      "revenue_growth_pct": 19.3,
+      "ebitda": 7.3,
+      "ebitda_margin_pct": 27.4,
+      "net_debt": 44.8,
+      "cash": 15.6,
+      "leverage_ratio": 1.5,
+      "capex": 1.4,
+      "headcount": 441,
+      "covenant_status": "compliant",
+      "guidance_low": 105.0,
+      "guidance_high": 110.0
+    },
+    "evidence": {
+      "revenue": "26.6",
+      "revenue_growth_pct": "19.3%",
+      "ebitda": "7.3",
+      "ebitda_margin_pct": "27.4%",
+      "net_debt": "44.8",
+      "cash": "15.6",
+      "leverage_ratio": "1.5x",
+      "capex": "£1.4 million",
+      "headcount": "441",
+      "covenant_status": "in compliance",
+      "guidance_low": "£105m",
+      "guidance_high": "£110m"
+    },
+    "difficulty": {
+      "unit": "m",
+      "capex_location": "text",
+      "template": "A"
+    }
+  },
+  "fenwick_payments_q4_2025.pdf": {
+    "company": "Fenwick Payments",
+    "period": "Q4 2025",
+    "currency": "GBP",
+    "fields": {
+      "revenue": 28.2,
+      "revenue_growth_pct": 16.0,
+      "ebitda": 7.8,
+      "ebitda_margin_pct": 27.7,
+      "net_debt": 45.8,
+      "cash": 11.9,
+      "leverage_ratio": 1.4,
+      "capex": 1.5,
+      "headcount": 447,
+      "covenant_status": "compliant",
+      "guidance_low": 113.0,
+      "guidance_high": 118.0
+    },
+    "evidence": {
+      "revenue": "28.2",
+      "revenue_growth_pct": "16.0%",
+      "ebitda": "7.8",
+      "ebitda_margin_pct": "27.7%",
+      "net_debt": "45.8",
+      "cash": "11.9",
+      "leverage_ratio": "1.4x",
+      "capex": "£1.5 million",
+      "headcount": "447",
+      "covenant_status": "in compliance",
+      "guidance_low": "£113m",
+      "guidance_high": "£118m"
+    },
+    "difficulty": {
+      "unit": "m",
+      "capex_location": "text",
+      "template": "A"
+    }
+  },
+  "brenner_fahrzeugtechnik_q1_2025.pdf": {
+    "company": "Brenner Fahrzeugtechnik",
+    "period": "Q1 2025",
+    "currency": "EUR",
+    "fields": {
+      "revenue": 44.8,
+      "revenue_growth_pct": 5.4,
+      "ebitda": 5.4,
+      "ebitda_margin_pct": 12.1,
+      "net_debt": 94.8,
+      "cash": 23.2,
+      "leverage_ratio": 4.5,
+      "capex": 4.0,
+      "headcount": 890,
+      "covenant_status": "compliant",
+      "guidance_low": 175.0,
+      "guidance_high": 180.0
+    },
+    "evidence": {
+      "revenue": "44.8",
+      "revenue_growth_pct": "5.4%",
+      "ebitda": "5.4",
+      "ebitda_margin_pct": "12.1%",
+      "net_debt": "94.8",
+      "cash": "23.2",
+      "leverage_ratio": "4.5x",
+      "capex": "€4.0 million",
+      "headcount": "890",
+      "covenant_status": "in compliance",
+      "guidance_low": "€175m",
+      "guidance_high": "€180m"
+    },
+    "difficulty": {
+      "unit": "m",
+      "capex_location": "text",
+      "template": "B"
+    }
+  },
+  "brenner_fahrzeugtechnik_q2_2025.pdf": {
+    "company": "Brenner Fahrzeugtechnik",
+    "period": "Q2 2025",
+    "currency": "EUR",
+    "fields": {
+      "revenue": 45.2,
+      "revenue_growth_pct": 8.7,
+      "ebitda": 5.2,
+      "ebitda_margin_pct": 11.5,
+      "net_debt": 94.8,
+      "cash": 13.1,
+      "leverage_ratio": 4.7,
+      "capex": 2.3,
+      "headcount": 894,
+      "covenant_status": "compliant",
+      "guidance_low": 177.0,
+      "guidance_high": 182.0
+    },
+    "evidence": {
+      "revenue": "45.2",
+      "revenue_growth_pct": "8.7%",
+      "ebitda": "5.2",
+      "ebitda_margin_pct": "11.5%",
+      "net_debt": "94.8",
+      "cash": "13.1",
+      "leverage_ratio": "4.7x",
+      "capex": "2.3",
+      "headcount": "894",
+      "covenant_status": "in compliance",
+      "guidance_low": "€177m",
+      "guidance_high": "€182m"
+    },
+    "difficulty": {
+      "unit": "m",
+      "capex_location": "table",
+      "template": "B"
+    }
+  },
+  "brenner_fahrzeugtechnik_q3_2025.pdf": {
+    "company": "Brenner Fahrzeugtechnik",
+    "period": "Q3 2025",
+    "currency": "EUR",
+    "fields": {
+      "revenue": 45.2,
+      "revenue_growth_pct": 6.4,
+      "ebitda": 5.3,
+      "ebitda_margin_pct": 11.7,
+      "net_debt": 92.7,
+      "cash": 18.1,
+      "leverage_ratio": 4.5,
+      "capex": 2.1,
+      "headcount": 875,
+      "covenant_status": "compliant",
+      "guidance_low": 175.0,
+      "guidance_high": 190.0
+    },
+    "evidence": {
+      "revenue": "45.2",
+      "revenue_growth_pct": "6.4%",
+      "ebitda": "5.3",
+      "ebitda_margin_pct": "11.7%",
+      "net_debt": "92.7",
+      "cash": "18.1",
+      "leverage_ratio": "4.5x",
+      "capex": "2.1",
+      "headcount": "875",
+      "covenant_status": "in compliance",
+      "guidance_low": "€175m",
+      "guidance_high": "€190m"
+    },
+    "difficulty": {
+      "unit": "m",
+      "capex_location": "table",
+      "template": "B"
+    }
+  },
+  "brenner_fahrzeugtechnik_q4_2025.pdf": {
+    "company": "Brenner Fahrzeugtechnik",
+    "period": "Q4 2025",
+    "currency": "EUR",
+    "fields": {
+      "revenue": 48.6,
+      "revenue_growth_pct": 5.2,
+      "ebitda": 5.8,
+      "ebitda_margin_pct": 11.9,
+      "net_debt": 91.0,
+      "cash": 13.0,
+      "leverage_ratio": 4.0,
+      "capex": 4.2,
+      "headcount": 889,
+      "covenant_status": "compliant",
+      "guidance_low": 191.0,
+      "guidance_high": 201.0
+    },
+    "evidence": {
+      "revenue": "48.6",
+      "revenue_growth_pct": "5.2%",
+      "ebitda": "5.8",
+      "ebitda_margin_pct": "11.9%",
+      "net_debt": "91.0",
+      "cash": "13.0",
+      "leverage_ratio": "4.0x",
+      "capex": "4.2",
+      "headcount": "889",
+      "covenant_status": "in compliance",
+      "guidance_low": "€191m",
+      "guidance_high": "€201m"
+    },
+    "difficulty": {
+      "unit": "m",
+      "capex_location": "table",
+      "template": "B"
+    }
+  },
+  "corvane_software_q1_2025.pdf": {
+    "company": "Corvane Software",
+    "period": "Q1 2025",
+    "currency": "USD",
+    "fields": {
+      "revenue": 12.36,
+      "revenue_growth_pct": 23.0,
+      "ebitda": 3.813,
+      "ebitda_margin_pct": 30.8,
+      "net_debt": 37.299,
+      "cash": 4.569,
+      "leverage_ratio": 2.6,
+      "capex": 0.438,
+      "headcount": 185,
+      "covenant_status": "compliant",
+      "guidance_low": 48.0,
+      "guidance_high": 53.0
+    },
+    "evidence": {
+      "revenue": "12,360",
+      "revenue_growth_pct": "23.0%",
+      "ebitda": "3,813",
+      "ebitda_margin_pct": "30.8%",
+      "net_debt": "37,299",
+      "cash": "4,569",
+      "leverage_ratio": "2.6x",
+      "capex": "438",
+      "headcount": "185",
+      "covenant_status": "in compliance",
+      "guidance_low": "$48m",
+      "guidance_high": "$53m"
+    },
+    "difficulty": {
+      "unit": "k",
+      "capex_location": "table",
+      "template": "B"
+    }
+  },
+  "corvane_software_q2_2025.pdf": {
+    "company": "Corvane Software",
+    "period": "Q2 2025",
+    "currency": "USD",
+    "fields": {
+      "revenue": 13.078,
+      "revenue_growth_pct": 22.5,
+      "ebitda": 3.894,
+      "ebitda_margin_pct": 29.8,
+      "net_debt": 36.982,
+      "cash": 5.246,
+      "leverage_ratio": 2.4,
+      "capex": 0.637,
+      "headcount": 172,
+      "covenant_status": "compliant",
+      "guidance_low": 50.0,
+      "guidance_high": 55.0
+    },
+    "evidence": {
+      "revenue": "13,078",
+      "revenue_growth_pct": "22.5%",
+      "ebitda": "3,894",
+      "ebitda_margin_pct": "29.8%",
+      "net_debt": "36,982",
+      "cash": "5,246",
+      "leverage_ratio": "2.4x",
+      "capex": "USD 637k",
+      "headcount": "172",
+      "covenant_status": "in compliance",
+      "guidance_low": "$50m",
+      "guidance_high": "$55m"
+    },
+    "difficulty": {
+      "unit": "k",
+      "capex_location": "text",
+      "template": "B"
+    }
+  },
+  "corvane_software_q3_2025.pdf": {
+    "company": "Corvane Software",
+    "period": "Q3 2025",
+    "currency": "USD",
+    "fields": {
+      "revenue": 12.45,
+      "revenue_growth_pct": 21.1,
+      "ebitda": 4.024,
+      "ebitda_margin_pct": 32.3,
+      "net_debt": 36.803,
+      "cash": 5.105,
+      "leverage_ratio": 2.3,
+      "capex": 0.785,
+      "headcount": 175,
+      "covenant_status": "compliant",
+      "guidance_low": 50.0,
+      "guidance_high": 52.0
+    },
+    "evidence": {
+      "revenue": "12,450",
+      "revenue_growth_pct": "21.1%",
+      "ebitda": "4,024",
+      "ebitda_margin_pct": "32.3%",
+      "net_debt": "36,803",
+      "cash": "5,105",
+      "leverage_ratio": "2.3x",
+      "capex": "USD 785k",
+      "headcount": "175",
+      "covenant_status": "in compliance",
+      "guidance_low": "$50m",
+      "guidance_high": "$52m"
+    },
+    "difficulty": {
+      "unit": "k",
+      "capex_location": "text",
+      "template": "B"
+    }
+  },
+  "corvane_software_q4_2025.pdf": {
+    "company": "Corvane Software",
+    "period": "Q4 2025",
+    "currency": "USD",
+    "fields": {
+      "revenue": 13.519,
+      "revenue_growth_pct": 19.8,
+      "ebitda": 3.989,
+      "ebitda_margin_pct": 29.5,
+      "net_debt": 36.784,
+      "cash": 4.877,
+      "leverage_ratio": 2.4,
+      "capex": 1.086,
+      "headcount": 190,
+      "covenant_status": "compliant",
+      "guidance_low": 53.0,
+      "guidance_high": 58.0
+    },
+    "evidence": {
+      "revenue": "13,519",
+      "revenue_growth_pct": "19.8%",
+      "ebitda": "3,989",
+      "ebitda_margin_pct": "29.5%",
+      "net_debt": "36,784",
+      "cash": "4,877",
+      "leverage_ratio": "2.4x",
+      "capex": "1,086",
+      "headcount": "190",
+      "covenant_status": "in compliance",
+      "guidance_low": "$53m",
+      "guidance_high": "$58m"
+    },
+    "difficulty": {
+      "unit": "k",
+      "capex_location": "table",
+      "template": "B"
+    }
+  }
+}

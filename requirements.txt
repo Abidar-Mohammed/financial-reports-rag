@@ -1,0 +1,13 @@
+pymupdf>=1.24
+reportlab>=4.0
+rank-bm25>=0.2.2
+sentence-transformers>=3.0,<4
+transformers>=4.44,<4.50
+huggingface-hub>=0.24,<1.0
+torch>=2.2
+numpy>=1.26
+requests>=2.31
+matplotlib>=3.8
+pytest>=7.0
+# CPU wheels: pip install llama-cpp-python --extra-index-url https://abetlen.github.io/llama-cpp-python/whl/cpu
+llama-cpp-python>=0.3
